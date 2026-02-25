@@ -1,0 +1,1201 @@
+Patient_ID,Age,IMD_Quintile,Ethnicity,Condition,Appointment_Date,GP_Practice,Appointment_Type,Attended
+1024,,,Asian,None,30/04/2024,Hilltop,Follow-up,Yes
+1103,,,Asian,Diabetes,04/11/2024,Riverside,Routine,No
+1100,,,Other,Hypertension,18/07/2024,Riverside,Routine,No
+1137,,,Other,Hypertension,11/07/2024,Hilltop,Medication Review,Yes
+1003,,,White,Diabetes,18/06/2024,Meadow Lane,Medication Review,No
+1129,,,White,None,01/01/2024,Meadow Lane,Routine,No
+1057,,,Other,None,17/08/2024,Riverside,Follow-up,Yes
+1016,,,Asian,Hypertension,16/11/2024,Central Health,Routine,No
+1032,,,Asian,Hypertension,06/09/2024,Hilltop,Follow-up,Yes
+1077,,,Other,Hypertension,29/10/2024,Central Health,Routine,Yes
+1062,,,,Hypertension,06/06/2024,Central Health,Medication Review,Yes
+1129,,,Black,Hypertension,21/06/2024,Hilltop,Medication Review,Yes
+1034,,,Mixed,Diabetes,08/11/2024,Central Health,Medication Review,No
+1059,,,,Diabetes,07/07/2024,Central Health,Routine,Yes
+1127,,,Black,None,08/05/2024,Central Health,Medication Review,No
+1129,,,Other,Hypertension,11/02/2024,Central Health,Routine,Yes
+1104,,,,Hypertension,01/04/2024,Meadow Lane,Medication Review,Yes
+1003,,,White,Hypertension,31/12/2024,Meadow Lane,Medication Review,Yes
+1000,,,White,,22/01/2024,Central Health,Medication Review,Yes
+1045,,,Asian,Hypertension,29/02/2024,Meadow Lane,Follow-up,Yes
+1143,,,Other,Diabetes,19/11/2024,Meadow Lane,Follow-up,Yes
+1050,,,Black,None,22/12/2024,Meadow Lane,Routine,Yes
+1050,,,White,Hypertension,23/02/2024,Central Health,Routine,Yes
+1143,,,Asian,None,16/04/2024,Meadow Lane,Follow-up,Yes
+1014,42,4,,Hypertension,29/10/2024,Central Health,Follow-up,Yes
+1098,89,1,,None,10/04/2024,Riverside,Follow-up,Yes
+1146,84,2,,Diabetes,10/11/2024,Riverside,Routine,No
+1081,46,2,Asian,,27/05/2024,Riverside,Follow-up,Yes
+1061,52,2,,Diabetes,09/04/2024,Riverside,Medication Review,Yes
+1132,62,2,Black,Diabetes,01/08/2024,Central Health,Follow-up,Yes
+1032,32,3,,Hypertension,21/06/2024,Meadow Lane,Follow-up,Yes
+1073,34,1,Other,Diabetes,15/09/2024,Meadow Lane,Medication Review,No
+1044,86,1,White,None,04/02/2024,Central Health,Follow-up,Yes
+1114,69,5,Other,Diabetes,07/02/2024,Central Health,Routine,Yes
+1139,24,3,Mixed,None,24/02/2024,Central Health,Follow-up,Yes
+1005,18,5,Black,None,28/08/2024,Riverside,Follow-up,Yes
+1089,25,1,Mixed,None,23/08/2024,Central Health,Follow-up,Yes
+1023,63,3,Other,None,19/10/2024,Meadow Lane,Routine,Yes
+1149,25,3,,Hypertension,26/10/2024,Hilltop,Follow-up,Yes
+1073,36,4,,,06/03/2024,Central Health,Routine,Yes
+1139,50,3,White,Hypertension,03/04/2024,Hilltop,Routine,Yes
+1026,26,5,Black,None,19/04/2024,Riverside,Medication Review,Yes
+1026,74,2,Mixed,None,02/07/2024,Central Health,Medication Review,Yes
+1057,76,2,Black,,09/11/2024,Meadow Lane,Follow-up,Yes
+1100,56,4,Asian,Hypertension,08/10/2024,Hilltop,Routine,Yes
+1054,72,1,White,None,10/06/2024,Hilltop,Follow-up,No
+1091,73,5,Asian,Diabetes,05/07/2024,Central Health,Medication Review,Yes
+1088,83,3,Mixed,Hypertension,09/05/2024,Riverside,Follow-up,No
+1052,22,3,,Hypertension,03/09/2024,Riverside,Follow-up,No
+1144,41,4,Other,None,17/01/2024,Riverside,Routine,No
+1144,32,4,Asian,Hypertension,11/10/2024,Riverside,Follow-up,No
+1097,37,4,Asian,Diabetes,16/08/2024,Riverside,Follow-up,Yes
+1033,41,2,Mixed,None,22/04/2024,Riverside,Medication Review,No
+1001,56,1,Mixed,None,15/11/2024,Central Health,Medication Review,Yes
+1137,24,2,Other,Hypertension,15/07/2024,Riverside,Follow-up,No
+1059,20,4,Asian,Hypertension,13/06/2024,Riverside,Follow-up,Yes
+1117,89,1,Mixed,Diabetes,15/07/2024,Hilltop,Routine,Yes
+1079,82,3,Black,Hypertension,11/12/2024,Hilltop,Routine,Yes
+1029,30,5,,None,09/11/2024,Meadow Lane,Routine,Yes
+1021,53,1,Other,Hypertension,26/06/2024,Hilltop,Medication Review,Yes
+1143,55,3,Black,Diabetes,15/04/2024,Riverside,Medication Review,Yes
+1038,75,5,White,Diabetes,26/05/2024,Meadow Lane,Medication Review,Yes
+1047,43,3,Asian,Hypertension,27/06/2024,Central Health,Routine,No
+1032,22,3,Asian,None,19/04/2024,Riverside,Medication Review,Yes
+1146,83,1,,None,13/09/2024,Riverside,Routine,Yes
+1000,81,2,Mixed,None,26/04/2024,Riverside,Medication Review,Yes
+1049,35,2,Asian,,14/10/2024,Hilltop,Medication Review,Yes
+1020,73,1,Other,None,29/02/2024,Hilltop,Routine,Yes
+1002,60,4,White,None,09/08/2024,Hilltop,Follow-up,Yes
+1073,85,4,Mixed,Hypertension,05/10/2024,Meadow Lane,Follow-up,Yes
+1034,22,5,White,Hypertension,28/01/2024,Riverside,Follow-up,No
+1074,57,5,Other,None,29/07/2024,Central Health,Routine,Yes
+1085,24,4,Black,Diabetes,27/05/2024,Central Health,Follow-up,No
+1001,42,3,,Hypertension,19/04/2024,Meadow Lane,Routine,Yes
+1008,89,1,Mixed,None,26/09/2024,Riverside,Follow-up,Yes
+1089,74,4,Mixed,None,20/12/2024,Central Health,Follow-up,No
+1069,85,5,Other,Hypertension,23/02/2024,Meadow Lane,Follow-up,Yes
+1053,82,4,Asian,Diabetes,20/03/2024,Meadow Lane,Follow-up,Yes
+1136,39,2,,Diabetes,02/06/2024,Central Health,Medication Review,Yes
+1029,85,4,Mixed,None,09/01/2024,Riverside,Follow-up,Yes
+1043,45,2,,Hypertension,04/09/2024,Hilltop,Medication Review,Yes
+1147,46,1,Other,,28/03/2024,Riverside,Routine,No
+1092,28,4,Other,Hypertension,11/03/2024,Central Health,Routine,Yes
+1062,42,5,Mixed,Hypertension,29/04/2024,Riverside,Follow-up,Yes
+1117,32,1,White,Hypertension,30/06/2024,Meadow Lane,Medication Review,Yes
+1009,27,5,Mixed,None,08/12/2024,Central Health,Medication Review,Yes
+1085,87,3,Mixed,,24/11/2024,Hilltop,Follow-up,Yes
+1144,81,4,Asian,None,08/04/2024,Hilltop,Routine,Yes
+1054,71,1,Asian,None,01/10/2024,Hilltop,Follow-up,No
+1094,67,3,Black,Hypertension,29/09/2024,Hilltop,Routine,Yes
+1089,30,4,Black,None,22/05/2024,Riverside,Routine,Yes
+1139,74,4,Black,Hypertension,23/10/2024,Hilltop,Routine,Yes
+1103,28,3,Asian,Hypertension,13/01/2024,Meadow Lane,Medication Review,Yes
+1085,23,2,Asian,None,24/01/2024,Riverside,Medication Review,Yes
+1114,31,4,White,Hypertension,19/09/2024,Meadow Lane,Routine,Yes
+1131,61,4,Asian,Hypertension,22/04/2024,Riverside,Follow-up,Yes
+1046,20,1,Black,Hypertension,26/12/2024,Riverside,Routine,No
+1035,81,3,Mixed,Hypertension,30/01/2024,Central Health,Routine,Yes
+1129,68,4,Mixed,Hypertension,13/07/2024,Riverside,Follow-up,Yes
+1085,54,1,,None,17/09/2024,Meadow Lane,Medication Review,No
+1145,56,3,,,25/10/2024,Riverside,Follow-up,No
+1026,76,5,Other,Hypertension,08/01/2024,Meadow Lane,Routine,Yes
+1043,39,1,White,Diabetes,06/07/2024,Riverside,Medication Review,No
+1135,71,4,Mixed,None,25/09/2024,Hilltop,Routine,No
+1041,62,4,Asian,None,11/04/2024,Riverside,Follow-up,Yes
+1024,29,1,Mixed,,08/09/2024,Riverside,Routine,No
+1016,74,4,Other,None,03/02/2024,Meadow Lane,Medication Review,Yes
+1114,25,1,White,Hypertension,20/12/2024,Hilltop,Medication Review,Yes
+1073,58,4,,None,02/05/2024,Central Health,Routine,Yes
+1071,34,3,White,None,13/12/2024,Riverside,Medication Review,Yes
+1047,37,2,,None,15/11/2024,Central Health,Medication Review,No
+1065,18,3,Other,Hypertension,12/04/2024,Hilltop,Medication Review,No
+1129,48,4,Other,Diabetes,28/04/2024,Central Health,Follow-up,No
+1103,20,4,Mixed,Diabetes,20/09/2024,Riverside,Routine,No
+1049,36,4,White,None,17/04/2024,Riverside,Medication Review,Yes
+1034,72,5,Other,Diabetes,12/12/2024,Hilltop,Medication Review,Yes
+1127,29,3,Mixed,None,08/12/2024,Meadow Lane,Follow-up,No
+1112,59,5,,Diabetes,20/03/2024,Hilltop,Follow-up,Yes
+1110,47,1,Mixed,None,05/08/2024,Central Health,Medication Review,No
+1095,27,1,Other,None,03/09/2024,Riverside,Follow-up,No
+1060,26,1,Other,,10/03/2024,Meadow Lane,Medication Review,No
+1046,45,1,Black,Hypertension,05/06/2024,Central Health,Follow-up,No
+1018,53,5,Mixed,,21/05/2024,Central Health,Follow-up,Yes
+1136,37,4,,None,21/04/2024,Central Health,Medication Review,Yes
+1011,73,1,Mixed,None,25/09/2024,Meadow Lane,Medication Review,No
+1031,81,4,Asian,Hypertension,12/10/2024,Meadow Lane,Routine,Yes
+1014,21,3,White,Hypertension,23/08/2024,Central Health,Medication Review,Yes
+1133,57,2,Black,Hypertension,08/10/2024,Meadow Lane,Routine,No
+1025,64,4,,Hypertension,10/12/2024,Meadow Lane,Routine,Yes
+1141,65,1,,Hypertension,09/08/2024,Meadow Lane,Routine,No
+1092,77,3,Mixed,Hypertension,04/06/2024,Meadow Lane,Routine,Yes
+1039,86,5,White,None,12/07/2024,Riverside,Follow-up,Yes
+1007,83,2,Asian,Diabetes,01/12/2024,Riverside,Follow-up,Yes
+1053,20,5,Mixed,Diabetes,01/06/2024,Hilltop,Follow-up,Yes
+1006,66,3,Asian,None,30/12/2024,Meadow Lane,Follow-up,No
+1011,53,3,White,Hypertension,23/05/2024,Riverside,Routine,Yes
+1029,24,4,White,Hypertension,10/10/2024,Riverside,Routine,No
+1143,64,3,Mixed,,21/08/2024,Hilltop,Routine,Yes
+1116,69,1,White,,10/12/2024,Meadow Lane,Medication Review,No
+1139,29,3,Asian,None,14/01/2024,Riverside,Routine,Yes
+1041,56,1,White,,24/04/2024,Central Health,Follow-up,No
+1144,66,4,Black,,25/09/2024,Riverside,Medication Review,Yes
+1068,61,5,Asian,Diabetes,17/04/2024,Hilltop,Medication Review,No
+1097,28,1,White,,17/03/2024,Hilltop,Routine,No
+1074,82,2,White,Hypertension,03/01/2024,Meadow Lane,Follow-up,Yes
+1043,63,4,Asian,None,05/07/2024,Hilltop,Follow-up,Yes
+1108,50,3,Black,Diabetes,24/05/2024,Hilltop,Follow-up,Yes
+1143,77,3,Mixed,None,22/07/2024,Hilltop,Medication Review,Yes
+1094,61,2,Asian,Diabetes,25/01/2024,Meadow Lane,Follow-up,Yes
+1108,72,3,Other,None,16/09/2024,Hilltop,Follow-up,Yes
+1121,87,1,Asian,Hypertension,11/03/2024,Central Health,Medication Review,Yes
+1097,78,2,Other,,27/01/2024,Meadow Lane,Follow-up,Yes
+1014,79,4,Other,Hypertension,09/09/2024,Central Health,Medication Review,No
+1128,75,2,,None,09/11/2024,Central Health,Medication Review,Yes
+1132,28,2,White,None,13/02/2024,Hilltop,Follow-up,Yes
+1134,54,5,Asian,Hypertension,20/03/2024,Hilltop,Medication Review,Yes
+1053,23,2,Black,Hypertension,02/10/2024,Central Health,Medication Review,Yes
+1060,61,1,Asian,Diabetes,01/05/2024,Central Health,Follow-up,No
+1144,52,2,Mixed,Diabetes,25/06/2024,Meadow Lane,Medication Review,Yes
+1019,43,2,Mixed,None,14/07/2024,Meadow Lane,Routine,Yes
+1019,34,2,Black,Hypertension,26/01/2024,Hilltop,Routine,No
+1103,30,4,White,Hypertension,01/03/2024,Hilltop,Follow-up,No
+1134,55,5,Mixed,Diabetes,01/03/2024,Hilltop,Medication Review,Yes
+1098,34,3,Asian,None,21/10/2024,Hilltop,Routine,Yes
+1085,25,2,Mixed,Hypertension,21/05/2024,Hilltop,Routine,Yes
+1009,21,2,,Hypertension,31/10/2024,Central Health,Follow-up,Yes
+1061,79,1,,,10/11/2024,Central Health,Follow-up,Yes
+1032,89,4,,Hypertension,18/12/2024,Meadow Lane,Routine,No
+1083,55,3,White,Hypertension,27/08/2024,Central Health,Routine,No
+1130,49,5,Other,None,29/03/2024,Riverside,Routine,Yes
+1020,42,2,White,None,14/10/2024,Central Health,Medication Review,No
+1109,35,2,Asian,,08/09/2024,Hilltop,Routine,Yes
+1062,49,1,Mixed,Hypertension,28/02/2024,Riverside,Follow-up,Yes
+1025,37,2,,None,07/03/2024,Meadow Lane,Medication Review,Yes
+1010,46,3,Other,Diabetes,20/05/2024,Central Health,Follow-up,No
+1135,68,5,White,None,23/10/2024,Central Health,Medication Review,Yes
+1115,88,3,Other,None,27/05/2024,Hilltop,Follow-up,No
+1010,24,3,Mixed,Hypertension,23/01/2024,Riverside,Routine,No
+1004,71,3,Black,Hypertension,26/01/2024,Meadow Lane,Medication Review,Yes
+1078,35,3,Other,Diabetes,19/11/2024,Riverside,Routine,Yes
+1106,19,5,Other,None,19/02/2024,Riverside,Follow-up,Yes
+1037,88,3,Mixed,Diabetes,09/05/2024,Riverside,Routine,No
+1001,68,5,,Hypertension,19/02/2024,Meadow Lane,Follow-up,Yes
+1087,41,1,Mixed,None,01/01/2024,Hilltop,Routine,Yes
+1042,49,4,Mixed,Diabetes,28/07/2024,Meadow Lane,Medication Review,Yes
+1061,63,5,Asian,Hypertension,06/04/2024,Riverside,Medication Review,Yes
+1004,65,3,White,None,15/10/2024,Central Health,Medication Review,Yes
+1119,75,4,Asian,Diabetes,18/08/2024,Hilltop,Follow-up,Yes
+1092,18,2,Black,Diabetes,12/11/2024,Riverside,Follow-up,Yes
+1044,65,3,Other,Hypertension,04/02/2024,Meadow Lane,Medication Review,No
+1068,79,2,Black,None,24/06/2024,Riverside,Follow-up,Yes
+1072,48,2,Mixed,Hypertension,12/03/2024,Riverside,Routine,Yes
+1116,20,4,Black,Diabetes,19/04/2024,Meadow Lane,Follow-up,Yes
+1104,69,5,,Diabetes,15/01/2024,Hilltop,Follow-up,No
+1146,56,4,Mixed,None,16/06/2024,Hilltop,Follow-up,No
+1128,64,4,Black,Hypertension,23/06/2024,Central Health,Medication Review,No
+1053,66,4,White,Hypertension,11/04/2024,Riverside,Follow-up,Yes
+1129,22,3,Black,None,15/08/2024,Riverside,Follow-up,No
+1122,38,3,Asian,Hypertension,15/07/2024,Hilltop,Follow-up,Yes
+1045,80,5,White,None,04/06/2024,Riverside,Follow-up,Yes
+1099,79,3,Asian,,30/12/2024,Central Health,Follow-up,No
+1094,22,5,Black,Hypertension,29/09/2024,Hilltop,Medication Review,Yes
+1005,53,4,Asian,Diabetes,20/01/2024,Meadow Lane,Medication Review,Yes
+1062,38,2,White,Hypertension,28/03/2024,Hilltop,Medication Review,No
+1037,82,5,Other,Hypertension,10/07/2024,Hilltop,Follow-up,No
+1119,19,1,Asian,,31/05/2024,Riverside,Follow-up,No
+1135,77,3,,Hypertension,01/11/2024,Hilltop,Follow-up,Yes
+1126,47,5,Black,None,06/12/2024,Hilltop,Routine,Yes
+1013,87,5,Other,Hypertension,12/02/2024,Hilltop,Medication Review,Yes
+1097,47,2,Black,Hypertension,23/12/2024,Meadow Lane,Medication Review,Yes
+1025,49,3,White,None,19/12/2024,Meadow Lane,Routine,No
+1025,80,4,Black,Hypertension,05/02/2024,Hilltop,Medication Review,Yes
+1064,62,2,Asian,None,19/09/2024,Hilltop,Routine,No
+1046,48,4,White,Hypertension,09/11/2024,Central Health,Follow-up,No
+1119,27,2,Black,None,18/05/2024,Riverside,Medication Review,No
+1048,37,2,White,Hypertension,17/10/2024,Riverside,Medication Review,Yes
+1065,54,2,Black,Diabetes,17/03/2024,Riverside,Routine,No
+1118,44,5,,Diabetes,08/11/2024,Meadow Lane,Follow-up,Yes
+1021,19,1,Asian,Hypertension,24/11/2024,Meadow Lane,Follow-up,Yes
+1091,42,5,White,None,10/05/2024,Hilltop,Medication Review,Yes
+1054,32,1,Black,,19/01/2024,Hilltop,Routine,No
+1024,69,4,,,28/10/2024,Meadow Lane,Routine,No
+1017,75,1,Other,None,06/03/2024,Riverside,Follow-up,Yes
+1080,42,3,Black,Hypertension,18/02/2024,Central Health,Routine,Yes
+1103,34,4,,Diabetes,28/02/2024,Hilltop,Medication Review,Yes
+1057,82,3,Mixed,Hypertension,23/10/2024,Meadow Lane,Follow-up,Yes
+1094,20,3,Asian,None,05/06/2024,Riverside,Routine,No
+1138,58,3,Mixed,None,13/11/2024,Hilltop,Routine,Yes
+1109,74,2,Black,Diabetes,13/05/2024,Meadow Lane,Routine,Yes
+1122,35,4,Asian,None,16/04/2024,Central Health,Follow-up,Yes
+1107,58,1,White,None,07/08/2024,Hilltop,Medication Review,No
+1027,62,5,,Hypertension,05/10/2024,Central Health,Follow-up,Yes
+1131,33,2,Other,None,21/04/2024,Meadow Lane,Medication Review,Yes
+1105,35,4,Mixed,Diabetes,01/08/2024,Meadow Lane,Follow-up,Yes
+1090,60,3,White,Hypertension,24/12/2024,Central Health,Medication Review,Yes
+1028,56,5,,None,13/09/2024,Central Health,Medication Review,Yes
+1031,65,1,Black,Hypertension,09/09/2024,Central Health,Medication Review,No
+1048,42,4,Mixed,Hypertension,17/08/2024,Riverside,Medication Review,Yes
+1013,37,1,Mixed,None,15/08/2024,Central Health,Medication Review,Yes
+1052,51,4,,Hypertension,15/06/2024,Riverside,Medication Review,Yes
+1052,43,3,Other,,11/12/2024,Riverside,Medication Review,No
+1139,52,5,Other,Diabetes,18/07/2024,Riverside,Medication Review,Yes
+1088,21,1,Other,Hypertension,21/06/2024,Central Health,Follow-up,Yes
+1124,46,3,Asian,Diabetes,07/08/2024,Meadow Lane,Follow-up,Yes
+1128,36,4,Asian,,04/12/2024,Hilltop,Routine,Yes
+1013,29,5,Asian,Hypertension,17/05/2024,Meadow Lane,Routine,Yes
+1092,38,4,Mixed,Hypertension,04/10/2024,Riverside,Routine,Yes
+1022,58,2,Mixed,Hypertension,19/06/2024,Central Health,Routine,Yes
+1094,54,3,Other,Hypertension,19/03/2024,Riverside,Medication Review,Yes
+1120,76,1,Black,None,27/10/2024,Riverside,Follow-up,Yes
+1129,49,2,,Diabetes,21/10/2024,Hilltop,Medication Review,Yes
+1068,68,3,Mixed,None,27/07/2024,Riverside,Medication Review,Yes
+1128,66,3,Black,,01/03/2024,Riverside,Follow-up,No
+1120,57,2,,Hypertension,22/05/2024,Meadow Lane,Follow-up,Yes
+1032,61,2,Other,None,01/07/2024,Meadow Lane,Medication Review,Yes
+1031,47,1,Mixed,None,17/06/2024,Meadow Lane,Routine,Yes
+1103,84,3,Other,Hypertension,07/11/2024,Riverside,Routine,No
+1018,40,3,Asian,None,10/05/2024,Central Health,Medication Review,Yes
+1016,63,5,Black,Diabetes,29/11/2024,Hilltop,Routine,Yes
+1046,34,2,White,Hypertension,15/10/2024,Riverside,Follow-up,No
+1074,25,2,White,Hypertension,07/02/2024,Riverside,Routine,No
+1062,39,3,Mixed,Diabetes,09/05/2024,Central Health,Follow-up,Yes
+1000,71,3,,None,02/10/2024,Meadow Lane,Routine,Yes
+1038,36,3,Asian,Hypertension,31/08/2024,Riverside,Routine,Yes
+1007,19,4,White,Hypertension,07/12/2024,Meadow Lane,Medication Review,Yes
+1030,30,1,,Diabetes,25/09/2024,Meadow Lane,Routine,Yes
+1015,60,4,White,Diabetes,06/12/2024,Riverside,Follow-up,No
+1029,53,1,White,,08/02/2024,Meadow Lane,Medication Review,Yes
+1147,83,3,Other,Diabetes,24/05/2024,Riverside,Routine,Yes
+1027,67,3,,Hypertension,22/11/2024,Central Health,Medication Review,No
+1097,59,4,White,Diabetes,06/02/2024,Hilltop,Follow-up,No
+1111,50,5,Other,Hypertension,12/05/2024,Riverside,Follow-up,Yes
+1037,88,2,Asian,Hypertension,17/01/2024,Central Health,Follow-up,Yes
+1034,82,4,Other,None,27/08/2024,Riverside,Medication Review,Yes
+1031,58,3,Black,Hypertension,11/09/2024,Central Health,Follow-up,No
+1059,73,3,Black,Hypertension,12/05/2024,Central Health,Follow-up,Yes
+1063,35,2,Asian,Hypertension,02/04/2024,Central Health,Follow-up,Yes
+1134,42,5,Black,None,01/08/2024,Hilltop,Medication Review,Yes
+1007,60,5,,None,05/07/2024,Riverside,Routine,Yes
+1127,50,4,Mixed,Diabetes,02/05/2024,Riverside,Follow-up,Yes
+1033,41,4,Black,Diabetes,30/03/2024,Meadow Lane,Medication Review,No
+1038,18,2,Other,None,06/05/2024,Riverside,Routine,Yes
+1106,76,1,,None,27/10/2024,Riverside,Routine,Yes
+1077,38,1,Mixed,None,30/09/2024,Central Health,Medication Review,No
+1052,38,2,,None,18/11/2024,Central Health,Medication Review,Yes
+1050,21,1,Black,None,16/01/2024,Central Health,Medication Review,Yes
+1083,59,1,White,,24/03/2024,Hilltop,Follow-up,Yes
+1063,77,4,Mixed,Diabetes,20/01/2024,Central Health,Medication Review,Yes
+1117,49,2,White,Hypertension,18/11/2024,Meadow Lane,Follow-up,No
+1107,64,1,White,Diabetes,14/10/2024,Central Health,Follow-up,Yes
+1035,37,4,Other,None,16/11/2024,Hilltop,Routine,Yes
+1117,83,1,White,Diabetes,28/11/2024,Hilltop,Follow-up,Yes
+1113,54,3,Black,Hypertension,01/12/2024,Riverside,Follow-up,Yes
+1054,66,3,,Hypertension,11/10/2024,Meadow Lane,Follow-up,Yes
+1034,30,4,Other,Diabetes,10/07/2024,Hilltop,Follow-up,No
+1136,23,4,White,None,13/05/2024,Meadow Lane,Routine,Yes
+1136,48,2,Other,None,25/10/2024,Meadow Lane,Medication Review,Yes
+1064,77,2,Other,,29/04/2024,Riverside,Medication Review,Yes
+1125,38,1,White,Hypertension,03/09/2024,Meadow Lane,Follow-up,Yes
+1032,43,4,Black,Diabetes,03/07/2024,Meadow Lane,Follow-up,No
+1071,80,1,,Diabetes,10/06/2024,Central Health,Follow-up,Yes
+1104,75,3,,Hypertension,27/11/2024,Hilltop,Medication Review,Yes
+1098,64,2,Black,Diabetes,23/07/2024,Hilltop,Follow-up,Yes
+1134,38,2,Mixed,Hypertension,01/03/2024,Meadow Lane,Medication Review,Yes
+1024,44,3,Asian,Hypertension,01/10/2024,Riverside,Follow-up,Yes
+1088,59,4,Other,Hypertension,08/01/2024,Meadow Lane,Medication Review,Yes
+1106,53,2,Black,Diabetes,08/07/2024,Riverside,Follow-up,Yes
+1039,87,3,White,Diabetes,05/11/2024,Hilltop,Routine,No
+1081,56,4,Asian,None,07/09/2024,Meadow Lane,Medication Review,Yes
+1012,69,1,Asian,None,16/04/2024,Riverside,Medication Review,No
+1139,63,1,White,Diabetes,27/11/2024,Riverside,Routine,No
+1103,60,4,Other,None,15/04/2024,Central Health,Medication Review,Yes
+1140,36,5,Other,Hypertension,13/11/2024,Riverside,Medication Review,Yes
+1048,75,3,Asian,Hypertension,27/02/2024,Hilltop,Medication Review,Yes
+1098,50,4,Other,,09/12/2024,Riverside,Medication Review,Yes
+1123,22,3,White,None,04/06/2024,Meadow Lane,Routine,Yes
+1063,19,2,Asian,Hypertension,01/01/2024,Meadow Lane,Routine,Yes
+1023,26,4,Mixed,None,23/03/2024,Hilltop,Medication Review,No
+1046,72,3,Other,,10/12/2024,Hilltop,Medication Review,Yes
+1060,66,1,,Diabetes,05/12/2024,Central Health,Medication Review,Yes
+1110,83,5,Black,None,16/01/2024,Hilltop,Medication Review,No
+1102,21,4,Mixed,Hypertension,31/12/2024,Hilltop,Follow-up,Yes
+1112,52,3,Other,Hypertension,01/02/2024,Hilltop,Follow-up,Yes
+1101,64,1,Mixed,None,31/01/2024,Meadow Lane,Routine,Yes
+1063,27,5,Mixed,None,19/01/2024,Riverside,Follow-up,No
+1140,51,1,,Hypertension,04/04/2024,Central Health,Routine,Yes
+1027,43,3,Black,Diabetes,13/12/2024,Riverside,Follow-up,Yes
+1023,65,5,White,Hypertension,04/12/2024,Meadow Lane,Routine,Yes
+1062,46,4,Other,Hypertension,06/03/2024,Central Health,Routine,Yes
+1020,32,1,Asian,None,21/01/2024,Central Health,Follow-up,Yes
+1079,87,1,Other,Hypertension,21/01/2024,Central Health,Follow-up,Yes
+1014,35,1,White,None,21/04/2024,Hilltop,Medication Review,Yes
+1102,48,3,Black,Hypertension,16/03/2024,Hilltop,Routine,Yes
+1114,32,4,Black,Hypertension,26/01/2024,Central Health,Medication Review,No
+1097,54,4,White,Hypertension,08/06/2024,Central Health,Routine,Yes
+1029,76,5,Mixed,,14/12/2024,Central Health,Follow-up,Yes
+1006,53,1,Mixed,Hypertension,21/12/2024,Hilltop,Medication Review,No
+1146,56,3,Black,None,28/04/2024,Meadow Lane,Medication Review,No
+1102,52,3,Other,None,19/01/2024,Hilltop,Medication Review,Yes
+1050,47,2,White,None,21/10/2024,Riverside,Medication Review,Yes
+1107,85,1,Asian,,30/06/2024,Riverside,Follow-up,Yes
+1136,80,1,Other,,28/12/2024,Riverside,Medication Review,Yes
+1072,79,1,Other,,14/07/2024,Hilltop,Follow-up,No
+1003,62,1,,None,09/11/2024,Meadow Lane,Follow-up,No
+1046,38,1,Mixed,Hypertension,05/12/2024,Meadow Lane,Follow-up,Yes
+1112,50,4,White,None,15/04/2024,Meadow Lane,Follow-up,Yes
+1012,77,3,White,Diabetes,02/12/2024,Hilltop,Routine,No
+1148,43,4,Other,None,08/02/2024,Meadow Lane,Routine,No
+1006,39,1,,Hypertension,08/11/2024,Riverside,Medication Review,Yes
+1146,86,1,Mixed,Hypertension,09/06/2024,Central Health,Follow-up,Yes
+1029,67,1,Other,Diabetes,18/02/2024,Hilltop,Routine,No
+1126,28,4,,Hypertension,27/01/2024,Meadow Lane,Follow-up,Yes
+1058,59,4,Mixed,None,12/07/2024,Meadow Lane,Routine,Yes
+1005,29,3,,Diabetes,21/08/2024,Central Health,Medication Review,Yes
+1084,48,1,,Diabetes,15/11/2024,Hilltop,Medication Review,Yes
+1110,62,4,Black,Hypertension,12/01/2024,Central Health,Follow-up,Yes
+1050,23,1,Mixed,Diabetes,10/09/2024,Central Health,Medication Review,No
+1102,46,4,Other,Hypertension,03/03/2024,Central Health,Medication Review,Yes
+1139,51,3,Other,Hypertension,06/07/2024,Hilltop,Routine,No
+1133,65,3,Black,Diabetes,19/11/2024,Central Health,Medication Review,Yes
+1126,38,3,Asian,Diabetes,20/02/2024,Riverside,Medication Review,Yes
+1008,21,2,Black,None,11/12/2024,Meadow Lane,Routine,Yes
+1035,65,3,Black,None,26/07/2024,Riverside,Routine,Yes
+1103,66,5,Black,,15/06/2024,Riverside,Medication Review,Yes
+1004,87,2,Black,Diabetes,11/12/2024,Hilltop,Medication Review,Yes
+1121,72,3,Asian,Diabetes,12/08/2024,Riverside,Medication Review,Yes
+1040,79,2,Asian,Hypertension,02/03/2024,Meadow Lane,Routine,Yes
+1010,63,2,White,Diabetes,30/12/2024,Meadow Lane,Routine,Yes
+1110,47,2,Asian,Hypertension,24/04/2024,Hilltop,Follow-up,Yes
+1077,89,2,Black,Diabetes,10/12/2024,Riverside,Medication Review,Yes
+1121,32,4,Asian,None,27/12/2024,Riverside,Routine,Yes
+1013,87,2,Other,,09/08/2024,Riverside,Follow-up,No
+1141,77,3,Asian,,28/03/2024,Meadow Lane,Routine,Yes
+1073,63,3,,None,05/10/2024,Central Health,Follow-up,No
+1059,32,4,Other,None,16/01/2024,Hilltop,Routine,Yes
+1129,18,3,Other,Hypertension,12/07/2024,Central Health,Medication Review,No
+1007,73,5,Asian,Hypertension,31/03/2024,Hilltop,Follow-up,Yes
+1048,79,2,Black,Diabetes,16/05/2024,Hilltop,Medication Review,No
+1045,38,4,Other,Hypertension,26/01/2024,Hilltop,Medication Review,Yes
+1031,23,5,,None,25/10/2024,Central Health,Follow-up,Yes
+1063,48,5,,None,14/08/2024,Hilltop,Routine,Yes
+1100,78,2,White,Hypertension,02/08/2024,Hilltop,Medication Review,No
+1055,61,1,Asian,,13/05/2024,Meadow Lane,Routine,No
+1075,22,1,Other,Diabetes,02/11/2024,Meadow Lane,Routine,No
+1027,39,3,Mixed,Hypertension,29/07/2024,Hilltop,Medication Review,Yes
+1014,69,4,Asian,None,27/06/2024,Meadow Lane,Medication Review,No
+1145,85,1,Mixed,Hypertension,14/03/2024,Riverside,Medication Review,Yes
+1002,40,4,White,Diabetes,29/05/2024,Central Health,Routine,Yes
+1071,37,4,Asian,None,08/11/2024,Meadow Lane,Medication Review,Yes
+1131,38,1,Mixed,Diabetes,18/10/2024,Central Health,Medication Review,Yes
+1117,77,4,Other,Hypertension,25/01/2024,Meadow Lane,Routine,Yes
+1119,35,5,Asian,Diabetes,08/10/2024,Central Health,Medication Review,Yes
+1067,49,3,Asian,,19/11/2024,Central Health,Routine,Yes
+1127,89,3,White,Hypertension,05/02/2024,Meadow Lane,Medication Review,No
+1140,27,5,Asian,,30/06/2024,Hilltop,Follow-up,Yes
+1052,47,5,Black,Diabetes,09/08/2024,Riverside,Follow-up,Yes
+1022,78,2,Asian,Hypertension,31/03/2024,Riverside,Routine,Yes
+1094,31,4,Other,Hypertension,09/05/2024,Riverside,Follow-up,Yes
+1020,61,3,White,Diabetes,09/05/2024,Hilltop,Medication Review,Yes
+1091,66,1,,None,10/07/2024,Hilltop,Medication Review,No
+1052,22,5,Black,None,29/04/2024,Hilltop,Follow-up,Yes
+1145,22,1,Asian,,13/05/2024,Riverside,Medication Review,Yes
+1096,54,4,Mixed,None,12/01/2024,Meadow Lane,Follow-up,No
+1036,66,2,Asian,Diabetes,10/03/2024,Central Health,Follow-up,No
+1104,45,1,Black,Hypertension,05/11/2024,Hilltop,Medication Review,No
+1089,59,4,,Diabetes,05/06/2024,Meadow Lane,Medication Review,Yes
+1117,21,1,Other,Diabetes,02/04/2024,Central Health,Medication Review,Yes
+1147,78,2,Other,None,15/08/2024,Riverside,Medication Review,Yes
+1112,40,5,Black,,21/08/2024,Hilltop,Routine,Yes
+1084,39,2,Black,Diabetes,05/05/2024,Hilltop,Routine,No
+1128,85,2,Black,Hypertension,24/10/2024,Central Health,Medication Review,No
+1132,43,1,White,Diabetes,21/02/2024,Meadow Lane,Follow-up,Yes
+1062,29,2,,,08/06/2024,Riverside,Medication Review,Yes
+1047,70,2,Black,Hypertension,08/06/2024,Meadow Lane,Medication Review,No
+1056,51,2,White,Diabetes,14/02/2024,Riverside,Follow-up,Yes
+1131,41,1,Black,Hypertension,10/02/2024,Hilltop,Routine,Yes
+1093,42,1,Mixed,Hypertension,14/07/2024,Central Health,Routine,Yes
+1131,77,3,Other,None,18/12/2024,Hilltop,Medication Review,Yes
+1011,87,2,White,Hypertension,19/03/2024,Hilltop,Routine,No
+1140,60,4,Mixed,None,22/07/2024,Meadow Lane,Medication Review,Yes
+1123,39,3,Black,Diabetes,08/05/2024,Riverside,Medication Review,Yes
+1091,23,2,Other,Diabetes,29/09/2024,Meadow Lane,Follow-up,Yes
+1011,41,3,White,Diabetes,16/11/2024,Riverside,Routine,Yes
+1000,33,5,,Diabetes,05/06/2024,Central Health,Medication Review,Yes
+1064,24,4,,Diabetes,28/10/2024,Riverside,Follow-up,No
+1128,80,3,Black,None,10/03/2024,Meadow Lane,Routine,No
+1061,71,4,Asian,None,19/01/2024,Central Health,Follow-up,Yes
+1096,27,3,Other,Hypertension,20/11/2024,Meadow Lane,Medication Review,Yes
+1149,83,2,Mixed,None,03/02/2024,Central Health,Follow-up,No
+1054,30,5,Asian,None,08/11/2024,Meadow Lane,Routine,Yes
+1046,43,2,White,None,09/08/2024,Riverside,Medication Review,Yes
+1053,19,5,Asian,Hypertension,06/01/2024,Meadow Lane,Medication Review,Yes
+1021,89,4,White,None,20/09/2024,Meadow Lane,Routine,Yes
+1064,39,3,,Diabetes,27/10/2024,Central Health,Medication Review,Yes
+1012,46,2,Mixed,Diabetes,31/10/2024,Meadow Lane,Medication Review,Yes
+1113,72,2,Other,None,02/09/2024,Meadow Lane,Medication Review,Yes
+1004,77,3,White,None,28/02/2024,Riverside,Medication Review,Yes
+1066,49,3,Mixed,None,27/02/2024,Hilltop,Follow-up,No
+1045,49,3,,Diabetes,06/12/2024,Hilltop,Routine,No
+1036,34,4,Asian,Hypertension,30/07/2024,Central Health,Follow-up,Yes
+1051,61,3,,None,31/10/2024,Riverside,Follow-up,No
+1007,75,1,Other,None,28/02/2024,Riverside,Routine,Yes
+1026,25,1,White,None,25/12/2024,Riverside,Medication Review,No
+1025,83,2,White,Hypertension,24/12/2024,Hilltop,Medication Review,No
+1028,61,4,Mixed,None,16/06/2024,Central Health,Medication Review,No
+1033,54,3,Asian,Hypertension,12/05/2024,Hilltop,Routine,Yes
+1089,28,1,,None,08/07/2024,Central Health,Medication Review,Yes
+1058,52,5,Other,Hypertension,15/12/2024,Central Health,Medication Review,Yes
+1089,39,3,,Hypertension,29/01/2024,Riverside,Medication Review,Yes
+1014,60,2,Mixed,Diabetes,15/06/2024,Riverside,Follow-up,Yes
+1117,19,5,,Hypertension,08/04/2024,Meadow Lane,Follow-up,No
+1108,62,1,Mixed,,13/08/2024,Meadow Lane,Follow-up,No
+1045,85,2,Mixed,Diabetes,27/03/2024,Central Health,Follow-up,Yes
+1039,36,1,Asian,Hypertension,25/08/2024,Hilltop,Medication Review,No
+1099,52,4,Other,Diabetes,11/12/2024,Central Health,Follow-up,Yes
+1059,19,4,Other,None,05/11/2024,Central Health,Follow-up,Yes
+1026,44,3,Black,None,18/03/2024,Hilltop,Follow-up,Yes
+1114,63,2,Black,Hypertension,26/10/2024,Meadow Lane,Medication Review,Yes
+1031,38,4,Other,None,19/10/2024,Central Health,Routine,Yes
+1142,61,2,,Hypertension,15/01/2024,Hilltop,Follow-up,Yes
+1116,28,2,Other,Hypertension,03/11/2024,Central Health,Follow-up,Yes
+1115,64,2,Black,Hypertension,27/10/2024,Meadow Lane,Routine,Yes
+1038,57,2,Black,None,11/01/2024,Central Health,Routine,Yes
+1032,75,4,Black,None,08/02/2024,Meadow Lane,Routine,Yes
+1076,24,2,Other,Hypertension,07/01/2024,Central Health,Medication Review,Yes
+1041,60,4,Other,None,31/01/2024,Central Health,Follow-up,Yes
+1055,38,4,Asian,Hypertension,29/04/2024,Riverside,Medication Review,Yes
+1035,50,2,Asian,None,12/10/2024,Meadow Lane,Follow-up,Yes
+1030,41,4,,None,14/01/2024,Hilltop,Follow-up,Yes
+1108,81,1,Asian,None,25/08/2024,Meadow Lane,Follow-up,Yes
+1054,58,2,Other,Diabetes,14/01/2024,Hilltop,Follow-up,Yes
+1073,84,1,,None,05/12/2024,Riverside,Routine,Yes
+1149,88,1,Other,None,10/07/2024,Riverside,Medication Review,No
+1037,77,1,Asian,Hypertension,09/08/2024,Meadow Lane,Medication Review,No
+1120,27,1,Mixed,Diabetes,17/06/2024,Central Health,Routine,Yes
+1148,24,4,White,Hypertension,28/02/2024,Riverside,Medication Review,No
+1123,28,4,,Hypertension,15/03/2024,Hilltop,Routine,Yes
+1032,52,1,Other,Hypertension,08/03/2024,Riverside,Medication Review,Yes
+1000,65,5,Other,Diabetes,09/10/2024,Central Health,Follow-up,Yes
+1134,63,1,,Hypertension,15/11/2024,Riverside,Medication Review,Yes
+1145,34,1,,,23/01/2024,Riverside,Medication Review,No
+1118,19,4,Other,Diabetes,28/08/2024,Hilltop,Medication Review,Yes
+1022,18,1,Asian,None,12/11/2024,Hilltop,Routine,No
+1011,37,2,Other,Hypertension,18/02/2024,Central Health,Follow-up,Yes
+1110,81,2,,Hypertension,01/11/2024,Hilltop,Follow-up,Yes
+1089,28,3,Mixed,,18/05/2024,Meadow Lane,Follow-up,No
+1046,52,1,Black,None,07/03/2024,Hilltop,Follow-up,No
+1016,24,4,Mixed,Diabetes,20/09/2024,Central Health,Follow-up,Yes
+1025,88,4,Other,Hypertension,06/10/2024,Meadow Lane,Follow-up,No
+1121,75,4,,Hypertension,07/07/2024,Hilltop,Follow-up,Yes
+1133,21,4,Mixed,None,01/08/2024,Riverside,Routine,Yes
+1070,76,1,Black,Hypertension,21/10/2024,Riverside,Routine,Yes
+1080,20,2,,None,12/01/2024,Central Health,Medication Review,Yes
+1146,83,2,White,None,25/01/2024,Meadow Lane,Follow-up,Yes
+1062,74,4,White,None,01/04/2024,Meadow Lane,Routine,No
+1085,70,4,,Hypertension,08/04/2024,Hilltop,Routine,Yes
+1110,65,1,Black,None,01/12/2024,Meadow Lane,Routine,Yes
+1091,85,1,White,Hypertension,27/06/2024,Meadow Lane,Routine,No
+1046,27,1,White,Hypertension,17/03/2024,Central Health,Routine,No
+1080,33,2,Asian,Hypertension,02/03/2024,Riverside,Follow-up,Yes
+1024,60,3,Black,Hypertension,07/12/2024,Central Health,Medication Review,Yes
+1074,66,3,White,Hypertension,08/09/2024,Meadow Lane,Routine,Yes
+1101,38,1,Mixed,None,31/01/2024,Central Health,Medication Review,No
+1113,67,1,,None,21/07/2024,Meadow Lane,Follow-up,Yes
+1147,80,1,,Hypertension,01/02/2024,Central Health,Follow-up,No
+1144,87,2,Asian,Hypertension,04/05/2024,Hilltop,Medication Review,No
+1081,31,5,Mixed,None,24/12/2024,Central Health,Routine,No
+1008,60,4,Other,None,06/01/2024,Riverside,Medication Review,No
+1058,59,1,,None,15/10/2024,Central Health,Follow-up,Yes
+1020,31,5,Black,Hypertension,02/04/2024,Meadow Lane,Follow-up,Yes
+1141,63,4,Mixed,Hypertension,04/03/2024,Central Health,Routine,Yes
+1114,87,1,Black,None,01/04/2024,Riverside,Routine,No
+1023,19,5,Asian,Diabetes,01/05/2024,Riverside,Medication Review,Yes
+1116,85,3,Black,None,15/12/2024,Riverside,Routine,Yes
+1045,48,1,,Hypertension,17/12/2024,Hilltop,Medication Review,No
+1081,62,3,,Hypertension,23/07/2024,Riverside,Routine,No
+1004,73,1,Black,None,17/11/2024,Central Health,Medication Review,Yes
+1079,89,2,,Hypertension,26/12/2024,Meadow Lane,Follow-up,Yes
+1084,26,2,Mixed,Hypertension,24/08/2024,Meadow Lane,Routine,Yes
+1013,76,4,Asian,Hypertension,01/02/2024,Meadow Lane,Follow-up,Yes
+1017,38,1,Other,Hypertension,29/09/2024,Riverside,Routine,Yes
+1035,36,3,Other,Hypertension,10/12/2024,Central Health,Follow-up,Yes
+1047,51,2,Mixed,Diabetes,16/03/2024,Hilltop,Routine,Yes
+1112,44,3,Mixed,Hypertension,10/01/2024,Hilltop,Medication Review,Yes
+1136,62,1,Other,Hypertension,23/09/2024,Riverside,Medication Review,Yes
+1045,31,5,Asian,Hypertension,04/06/2024,Meadow Lane,Follow-up,Yes
+1116,41,5,Asian,Hypertension,11/11/2024,Meadow Lane,Routine,Yes
+1142,89,3,Asian,None,26/09/2024,Central Health,Medication Review,Yes
+1141,67,2,Other,Diabetes,15/04/2024,Meadow Lane,Follow-up,No
+1108,63,3,Mixed,None,17/12/2024,Meadow Lane,Medication Review,Yes
+1130,67,2,Other,Hypertension,29/08/2024,Riverside,Follow-up,Yes
+1087,62,4,Other,,16/10/2024,Central Health,Medication Review,Yes
+1098,52,5,,None,14/06/2024,Meadow Lane,Follow-up,Yes
+1144,45,4,Asian,,13/08/2024,Riverside,Routine,Yes
+1099,38,1,Mixed,Diabetes,13/09/2024,Meadow Lane,Routine,Yes
+1034,19,2,Other,Diabetes,21/01/2024,Riverside,Routine,Yes
+1099,46,4,,Hypertension,31/05/2024,Central Health,Routine,Yes
+1072,38,1,Asian,Hypertension,28/02/2024,Hilltop,Routine,Yes
+1102,30,1,Asian,Hypertension,17/03/2024,Riverside,Routine,No
+1108,81,3,White,,12/09/2024,Central Health,Follow-up,Yes
+1085,77,3,Asian,Diabetes,06/02/2024,Meadow Lane,Medication Review,Yes
+1019,87,2,Black,None,04/07/2024,Central Health,Follow-up,No
+1068,47,3,,None,13/09/2024,Central Health,Routine,Yes
+1101,88,1,Mixed,Diabetes,16/11/2024,Hilltop,Follow-up,Yes
+1084,41,5,Mixed,None,26/07/2024,Hilltop,Follow-up,Yes
+1010,30,5,Asian,Diabetes,02/11/2024,Hilltop,Routine,Yes
+1078,43,4,,Hypertension,21/01/2024,Hilltop,Medication Review,Yes
+1121,41,3,Asian,None,08/08/2024,Meadow Lane,Routine,Yes
+1009,25,2,Black,Hypertension,19/12/2024,Central Health,Follow-up,No
+1059,53,2,Black,None,11/06/2024,Central Health,Follow-up,No
+1116,45,2,Asian,None,04/09/2024,Riverside,Routine,Yes
+1100,75,1,Black,Hypertension,27/09/2024,Riverside,Medication Review,No
+1025,25,5,Asian,None,09/01/2024,Hilltop,Routine,Yes
+1048,19,1,Black,,27/11/2024,Meadow Lane,Medication Review,Yes
+1027,20,3,Black,None,28/06/2024,Hilltop,Medication Review,No
+1009,68,5,,Hypertension,12/10/2024,Meadow Lane,Routine,Yes
+1116,27,1,Black,Hypertension,03/10/2024,Meadow Lane,Medication Review,No
+1009,80,1,Mixed,None,04/07/2024,Hilltop,Follow-up,Yes
+1067,68,4,Black,None,30/07/2024,Meadow Lane,Routine,Yes
+1130,50,2,White,None,08/10/2024,Hilltop,Medication Review,Yes
+1004,57,4,,,20/02/2024,Central Health,Follow-up,No
+1038,85,4,Other,Hypertension,24/05/2024,Riverside,Routine,No
+1053,34,3,,None,12/12/2024,Hilltop,Routine,Yes
+1055,59,4,Mixed,None,10/10/2024,Riverside,Medication Review,Yes
+1100,23,4,White,None,26/04/2024,Riverside,Medication Review,Yes
+1057,83,1,,None,06/06/2024,Meadow Lane,Follow-up,No
+1142,24,5,Mixed,Diabetes,15/05/2024,Central Health,Follow-up,Yes
+1092,76,1,Asian,Hypertension,16/03/2024,Hilltop,Medication Review,Yes
+1077,51,1,Other,None,02/07/2024,Meadow Lane,Routine,Yes
+1036,46,3,Mixed,Diabetes,06/12/2024,Hilltop,Routine,Yes
+1087,37,2,Other,Hypertension,26/10/2024,Meadow Lane,Medication Review,Yes
+1058,80,2,Mixed,None,29/02/2024,Riverside,Medication Review,Yes
+1104,73,2,Black,Hypertension,22/04/2024,Meadow Lane,Medication Review,Yes
+1007,47,1,White,None,21/02/2024,Riverside,Follow-up,Yes
+1026,78,4,White,Diabetes,11/09/2024,Riverside,Follow-up,Yes
+1083,73,4,White,None,03/04/2024,Central Health,Routine,Yes
+1078,77,1,Asian,Hypertension,24/12/2024,Riverside,Routine,No
+1083,83,3,,Diabetes,12/12/2024,Riverside,Follow-up,Yes
+1074,67,2,White,None,10/11/2024,Riverside,Follow-up,Yes
+1131,30,3,White,Hypertension,28/05/2024,Meadow Lane,Follow-up,Yes
+1103,76,5,Asian,None,27/02/2024,Central Health,Medication Review,Yes
+1144,50,3,White,Hypertension,30/05/2024,Riverside,Follow-up,No
+1013,33,1,Asian,Hypertension,23/07/2024,Hilltop,Medication Review,Yes
+1123,49,5,Black,None,05/12/2024,Meadow Lane,Follow-up,Yes
+1143,20,3,,None,25/10/2024,Hilltop,Follow-up,No
+1102,76,5,Black,Hypertension,01/12/2024,Hilltop,Routine,Yes
+1126,71,3,Mixed,Hypertension,29/02/2024,Riverside,Follow-up,Yes
+1038,32,4,Asian,,17/01/2024,Riverside,Routine,Yes
+1024,25,5,Asian,None,28/11/2024,Riverside,Medication Review,No
+1005,85,3,,Hypertension,11/11/2024,Central Health,Follow-up,Yes
+1100,38,4,Asian,None,02/03/2024,Central Health,Medication Review,Yes
+1067,34,1,,Diabetes,19/01/2024,Hilltop,Follow-up,Yes
+1104,87,1,,None,17/01/2024,Central Health,Medication Review,Yes
+1065,65,1,,Diabetes,11/04/2024,Meadow Lane,Follow-up,No
+1059,33,4,,,16/01/2024,Meadow Lane,Medication Review,No
+1133,89,4,,None,06/07/2024,Meadow Lane,Medication Review,Yes
+1027,66,4,Asian,Hypertension,25/10/2024,Riverside,Routine,Yes
+1018,78,3,Other,None,16/11/2024,Hilltop,Medication Review,Yes
+1143,77,2,Mixed,Hypertension,22/03/2024,Meadow Lane,Routine,Yes
+1007,21,2,Other,Hypertension,06/10/2024,Hilltop,Follow-up,No
+1028,83,1,Black,Diabetes,08/03/2024,Hilltop,Routine,No
+1050,34,1,,None,08/10/2024,Hilltop,Follow-up,Yes
+1052,80,2,Other,None,11/09/2024,Central Health,Follow-up,No
+1107,75,5,,None,01/02/2024,Riverside,Routine,Yes
+1049,57,2,Other,Hypertension,29/06/2024,Central Health,Medication Review,Yes
+1112,87,1,Black,Diabetes,07/02/2024,Riverside,Follow-up,No
+1069,24,4,Other,,29/07/2024,Riverside,Medication Review,Yes
+1109,41,1,Other,Diabetes,17/07/2024,Meadow Lane,Routine,No
+1082,79,3,Mixed,None,06/09/2024,Meadow Lane,Medication Review,Yes
+1117,66,1,Black,Hypertension,01/01/2024,Central Health,Medication Review,Yes
+1037,53,1,,Diabetes,08/10/2024,Riverside,Routine,Yes
+1026,31,3,Asian,,01/05/2024,Central Health,Medication Review,Yes
+1115,30,2,Mixed,,05/02/2024,Central Health,Routine,No
+1056,46,5,Black,None,22/06/2024,Riverside,Routine,Yes
+1129,48,3,,,13/06/2024,Hilltop,Follow-up,Yes
+1107,30,5,Other,Hypertension,04/05/2024,Riverside,Medication Review,Yes
+1125,71,1,Other,None,07/07/2024,Riverside,Medication Review,Yes
+1051,82,2,Other,Hypertension,15/04/2024,Hilltop,Routine,Yes
+1075,58,2,Black,,17/01/2024,Central Health,Medication Review,No
+1125,30,4,Black,Diabetes,27/08/2024,Hilltop,Follow-up,Yes
+1001,72,4,,,19/04/2024,Hilltop,Routine,No
+1122,77,5,Asian,Hypertension,12/07/2024,Meadow Lane,Routine,Yes
+1125,32,2,White,None,14/04/2024,Hilltop,Medication Review,No
+1089,44,2,Other,Diabetes,10/07/2024,Hilltop,Medication Review,No
+1047,34,1,White,Hypertension,21/10/2024,Meadow Lane,Routine,Yes
+1144,50,5,,Diabetes,11/09/2024,Central Health,Follow-up,Yes
+1014,42,1,Mixed,Diabetes,30/05/2024,Hilltop,Medication Review,Yes
+1062,40,1,Black,Hypertension,01/05/2024,Meadow Lane,Routine,Yes
+1085,73,2,Black,Diabetes,23/09/2024,Hilltop,Follow-up,Yes
+1067,18,3,Black,Hypertension,12/06/2024,Hilltop,Routine,Yes
+1098,30,1,Asian,,05/04/2024,Central Health,Routine,No
+1040,68,1,Other,Hypertension,10/02/2024,Hilltop,Follow-up,No
+1043,84,4,Other,Hypertension,24/02/2024,Meadow Lane,Routine,Yes
+1034,50,1,White,None,24/02/2024,Central Health,Follow-up,Yes
+1016,72,1,,Hypertension,27/03/2024,Riverside,Follow-up,Yes
+1030,42,1,Other,Diabetes,20/01/2024,Riverside,Routine,Yes
+1092,37,2,Black,None,06/03/2024,Riverside,Routine,Yes
+1008,47,5,Black,None,06/12/2024,Riverside,Routine,Yes
+1136,84,5,Asian,None,22/10/2024,Riverside,Routine,Yes
+1013,72,4,Other,None,23/12/2024,Hilltop,Routine,Yes
+1034,69,5,White,None,22/02/2024,Hilltop,Routine,Yes
+1137,77,1,Asian,None,10/09/2024,Central Health,Follow-up,No
+1048,58,1,Black,Hypertension,17/09/2024,Hilltop,Follow-up,Yes
+1016,60,4,Other,Hypertension,25/01/2024,Hilltop,Routine,No
+1141,47,4,,None,02/11/2024,Meadow Lane,Routine,Yes
+1082,55,1,Other,Hypertension,22/10/2024,Meadow Lane,Routine,Yes
+1048,72,1,Mixed,Hypertension,19/02/2024,Hilltop,Medication Review,Yes
+1042,25,5,Other,Hypertension,28/03/2024,Central Health,Medication Review,Yes
+1004,75,5,Asian,None,17/08/2024,Riverside,Medication Review,Yes
+1041,32,3,Mixed,None,19/02/2024,Riverside,Medication Review,No
+1070,21,3,Other,Diabetes,17/09/2024,Hilltop,Routine,Yes
+1000,78,2,White,Diabetes,08/02/2024,Riverside,Follow-up,Yes
+1039,70,4,Black,None,06/02/2024,Riverside,Follow-up,No
+1111,75,4,Other,Hypertension,30/06/2024,Riverside,Medication Review,Yes
+1068,59,5,Mixed,Hypertension,20/03/2024,Hilltop,Medication Review,Yes
+1061,68,2,Other,Hypertension,21/04/2024,Riverside,Follow-up,Yes
+1034,20,1,Other,Diabetes,01/01/2024,Hilltop,Follow-up,Yes
+1032,42,4,White,Hypertension,21/08/2024,Central Health,Medication Review,No
+1028,36,1,White,None,01/01/2024,Riverside,Follow-up,Yes
+1036,54,2,Black,Hypertension,14/06/2024,Meadow Lane,Medication Review,Yes
+1099,31,4,,Hypertension,19/09/2024,Hilltop,Routine,Yes
+1137,59,2,,None,06/03/2024,Meadow Lane,Follow-up,No
+1023,87,5,White,Hypertension,05/12/2024,Meadow Lane,Medication Review,Yes
+1037,42,3,Asian,None,14/12/2024,Hilltop,Follow-up,Yes
+1000,38,5,Asian,None,27/10/2024,Meadow Lane,Routine,Yes
+1137,34,4,Black,None,08/09/2024,Central Health,Medication Review,Yes
+1054,71,1,Other,None,08/04/2024,Central Health,Routine,Yes
+1043,29,5,Mixed,Hypertension,12/02/2024,Riverside,Follow-up,Yes
+1036,55,3,Black,Diabetes,14/05/2024,Hilltop,Routine,Yes
+1114,73,5,Mixed,None,15/09/2024,Central Health,Medication Review,Yes
+1115,28,5,,None,28/11/2024,Central Health,Medication Review,Yes
+1149,49,2,White,None,26/09/2024,Central Health,Follow-up,Yes
+1095,37,2,Black,Diabetes,22/05/2024,Central Health,Routine,Yes
+1096,25,5,,None,02/09/2024,Meadow Lane,Medication Review,Yes
+1054,75,2,Mixed,,27/05/2024,Riverside,Follow-up,Yes
+1041,30,3,Asian,,28/07/2024,Meadow Lane,Follow-up,Yes
+1114,31,5,White,Hypertension,21/11/2024,Meadow Lane,Routine,Yes
+1142,31,2,Black,,25/01/2024,Meadow Lane,Follow-up,Yes
+1053,61,5,,Diabetes,27/07/2024,Meadow Lane,Routine,No
+1066,34,5,Other,None,11/11/2024,Hilltop,Routine,Yes
+1108,28,1,Other,None,20/11/2024,Riverside,Medication Review,No
+1111,37,4,,Hypertension,11/10/2024,Hilltop,Routine,No
+1009,59,5,,None,09/06/2024,Riverside,Medication Review,Yes
+1121,89,2,Mixed,None,25/10/2024,Meadow Lane,Follow-up,Yes
+1042,55,5,White,None,01/06/2024,Meadow Lane,Follow-up,Yes
+1116,30,1,Black,None,03/08/2024,Hilltop,Routine,No
+1015,66,2,White,None,14/11/2024,Central Health,Follow-up,Yes
+1100,57,2,Black,Hypertension,29/02/2024,Riverside,Follow-up,Yes
+1044,88,4,White,None,25/12/2024,Hilltop,Follow-up,Yes
+1053,71,2,White,Hypertension,20/10/2024,Central Health,Follow-up,Yes
+1039,26,2,Black,Diabetes,04/12/2024,Hilltop,Medication Review,Yes
+1135,83,2,Other,Hypertension,03/01/2024,Riverside,Follow-up,Yes
+1121,76,4,Mixed,Hypertension,26/08/2024,Riverside,Medication Review,Yes
+1071,41,5,Mixed,Diabetes,11/06/2024,Hilltop,Follow-up,Yes
+1095,22,4,Black,None,21/04/2024,Hilltop,Follow-up,No
+1042,64,3,White,None,23/04/2024,Hilltop,Medication Review,No
+1022,39,3,White,None,08/09/2024,Riverside,Follow-up,Yes
+1144,43,1,,Diabetes,14/11/2024,Meadow Lane,Routine,Yes
+1040,64,1,Other,Hypertension,08/02/2024,Hilltop,Routine,Yes
+1016,20,1,Asian,Diabetes,10/04/2024,Hilltop,Routine,Yes
+1028,86,5,Mixed,None,10/10/2024,Meadow Lane,Routine,No
+1103,25,3,Asian,None,21/12/2024,Hilltop,Routine,Yes
+1140,19,3,Black,None,20/01/2024,Riverside,Routine,Yes
+1031,44,5,Black,Hypertension,20/01/2024,Hilltop,Medication Review,Yes
+1099,54,2,Black,Hypertension,22/05/2024,Central Health,Follow-up,Yes
+1033,19,3,Black,Hypertension,15/05/2024,Riverside,Routine,No
+1005,52,1,,None,25/05/2024,Meadow Lane,Routine,No
+1116,40,1,Black,Diabetes,14/04/2024,Hilltop,Routine,Yes
+1089,42,4,,None,02/12/2024,Meadow Lane,Medication Review,Yes
+1128,56,3,White,None,25/02/2024,Riverside,Medication Review,Yes
+1073,40,3,Other,None,22/10/2024,Hilltop,Routine,Yes
+1108,47,4,White,Hypertension,06/11/2024,Hilltop,Medication Review,Yes
+1045,32,4,White,Diabetes,03/07/2024,Central Health,Routine,Yes
+1138,45,5,Asian,Hypertension,26/08/2024,Central Health,Follow-up,No
+1080,37,1,Mixed,Hypertension,12/04/2024,Riverside,Medication Review,Yes
+1033,75,3,,None,16/02/2024,Meadow Lane,Medication Review,No
+1142,22,2,Mixed,None,12/02/2024,Hilltop,Medication Review,Yes
+1106,87,3,Black,None,27/05/2024,Meadow Lane,Follow-up,Yes
+1060,25,2,Mixed,Hypertension,28/03/2024,Meadow Lane,Routine,Yes
+1045,61,1,Other,Hypertension,22/02/2024,Hilltop,Medication Review,No
+1146,81,5,Asian,Hypertension,10/02/2024,Meadow Lane,Medication Review,Yes
+1080,74,2,Asian,None,26/08/2024,Riverside,Medication Review,Yes
+1066,88,3,Mixed,,03/06/2024,Central Health,Follow-up,Yes
+1096,31,4,Other,Hypertension,09/09/2024,Meadow Lane,Medication Review,Yes
+1096,88,2,Asian,Hypertension,08/04/2024,Meadow Lane,Medication Review,No
+1102,31,1,Other,Hypertension,23/06/2024,Riverside,Medication Review,Yes
+1052,56,3,White,None,23/05/2024,Central Health,Medication Review,No
+1135,32,5,Mixed,Hypertension,10/11/2024,Hilltop,Medication Review,Yes
+1085,79,2,Black,Diabetes,17/08/2024,Meadow Lane,Routine,Yes
+1109,27,1,,Diabetes,06/09/2024,Hilltop,Follow-up,Yes
+1124,48,4,Black,None,31/12/2024,Hilltop,Medication Review,Yes
+1043,23,2,,Hypertension,22/05/2024,Meadow Lane,Routine,Yes
+1074,39,4,White,None,25/08/2024,Central Health,Follow-up,Yes
+1097,80,2,,None,23/06/2024,Central Health,Follow-up,Yes
+1103,49,3,Asian,None,13/12/2024,Central Health,Medication Review,No
+1060,32,1,Other,None,13/11/2024,Riverside,Medication Review,Yes
+1021,59,5,White,Hypertension,24/03/2024,Central Health,Medication Review,Yes
+1089,20,5,Mixed,Hypertension,22/07/2024,Meadow Lane,Medication Review,Yes
+1085,23,3,Other,,24/12/2024,Meadow Lane,Follow-up,Yes
+1069,81,2,Black,Hypertension,26/05/2024,Meadow Lane,Medication Review,Yes
+1133,53,4,Other,Hypertension,21/10/2024,Riverside,Follow-up,Yes
+1112,66,2,Mixed,Diabetes,09/08/2024,Hilltop,Routine,Yes
+1113,70,1,White,Diabetes,05/03/2024,Meadow Lane,Routine,Yes
+1046,62,1,Other,None,26/08/2024,Meadow Lane,Medication Review,No
+1114,81,5,White,Hypertension,12/08/2024,Riverside,Medication Review,Yes
+1052,39,3,Asian,,17/05/2024,Central Health,Follow-up,Yes
+1130,46,1,Other,None,16/01/2024,Riverside,Medication Review,No
+1143,46,2,,Hypertension,28/10/2024,Hilltop,Follow-up,Yes
+1075,75,4,Asian,Diabetes,06/08/2024,Riverside,Medication Review,Yes
+1089,27,4,Black,Hypertension,19/12/2024,Riverside,Medication Review,Yes
+1011,78,1,Other,None,13/12/2024,Meadow Lane,Follow-up,Yes
+1025,27,4,Mixed,Hypertension,26/07/2024,Hilltop,Medication Review,Yes
+1110,73,3,Asian,,12/09/2024,Meadow Lane,Follow-up,Yes
+1096,22,4,,Diabetes,16/03/2024,Riverside,Follow-up,Yes
+1057,55,2,Asian,Diabetes,14/10/2024,Central Health,Routine,No
+1120,79,3,Asian,Hypertension,27/02/2024,Hilltop,Follow-up,Yes
+1135,23,4,Other,Diabetes,17/04/2024,Meadow Lane,Follow-up,Yes
+1057,64,2,Mixed,Diabetes,04/04/2024,Meadow Lane,Follow-up,No
+1019,48,4,Other,Hypertension,13/10/2024,Meadow Lane,Follow-up,No
+1051,22,1,White,Hypertension,25/01/2024,Central Health,Routine,Yes
+1064,69,4,Black,None,11/08/2024,Meadow Lane,Follow-up,Yes
+1119,36,2,White,Hypertension,18/08/2024,Hilltop,Medication Review,Yes
+1117,21,1,Other,Hypertension,06/04/2024,Riverside,Routine,No
+1112,43,4,White,None,25/08/2024,Hilltop,Follow-up,Yes
+1080,29,4,White,Hypertension,22/09/2024,Meadow Lane,Medication Review,Yes
+1146,34,3,Black,Hypertension,19/10/2024,Meadow Lane,Medication Review,No
+1123,26,1,,Hypertension,24/12/2024,Hilltop,Follow-up,Yes
+1141,55,5,,None,05/10/2024,Hilltop,Routine,Yes
+1145,64,2,,Diabetes,22/07/2024,Meadow Lane,Medication Review,No
+1097,50,5,Asian,Hypertension,05/06/2024,Hilltop,Routine,Yes
+1089,53,4,Mixed,Hypertension,13/12/2024,Hilltop,Follow-up,Yes
+1131,55,2,Asian,None,12/03/2024,Meadow Lane,Medication Review,No
+1081,27,2,Mixed,Hypertension,21/11/2024,Hilltop,Routine,Yes
+1028,38,4,Asian,Diabetes,06/06/2024,Central Health,Follow-up,Yes
+1112,69,2,Other,,23/01/2024,Hilltop,Routine,Yes
+1090,87,4,,None,05/05/2024,Central Health,Follow-up,Yes
+1102,52,3,White,None,01/07/2024,Central Health,Medication Review,No
+1093,48,3,White,None,18/11/2024,Hilltop,Routine,No
+1077,29,4,Black,None,18/06/2024,Riverside,Medication Review,Yes
+1004,69,3,Mixed,None,17/04/2024,Hilltop,Medication Review,Yes
+1044,45,4,,,20/12/2024,Riverside,Medication Review,Yes
+1095,76,1,Asian,None,25/11/2024,Riverside,Medication Review,No
+1098,25,1,,,08/03/2024,Central Health,Medication Review,Yes
+1067,66,1,Black,Hypertension,09/11/2024,Meadow Lane,Medication Review,No
+1048,82,4,Mixed,Hypertension,14/02/2024,Meadow Lane,Follow-up,No
+1105,70,5,,None,27/06/2024,Hilltop,Routine,Yes
+1082,26,4,Black,Diabetes,12/07/2024,Central Health,Medication Review,Yes
+1061,37,2,,Hypertension,05/05/2024,Meadow Lane,Medication Review,Yes
+1037,40,2,,Hypertension,26/12/2024,Central Health,Routine,No
+1033,56,5,Mixed,Hypertension,30/04/2024,Hilltop,Medication Review,Yes
+1004,24,2,,Diabetes,29/03/2024,Meadow Lane,Routine,No
+1046,79,5,,None,20/02/2024,Hilltop,Routine,Yes
+1141,84,2,White,Diabetes,29/04/2024,Central Health,Routine,Yes
+1049,49,2,Asian,Hypertension,13/06/2024,Central Health,Routine,Yes
+1125,54,1,,Diabetes,16/11/2024,Hilltop,Medication Review,No
+1116,42,4,White,Diabetes,11/12/2024,Meadow Lane,Follow-up,No
+1068,49,5,Asian,None,10/01/2024,Riverside,Medication Review,Yes
+1091,20,5,Mixed,Diabetes,31/05/2024,Meadow Lane,Follow-up,Yes
+1146,61,5,Black,None,20/06/2024,Central Health,Follow-up,Yes
+1130,42,1,,Hypertension,16/03/2024,Riverside,Follow-up,Yes
+1038,67,4,Black,None,24/03/2024,Hilltop,Follow-up,Yes
+1130,31,2,Black,Hypertension,28/04/2024,Riverside,Routine,No
+1071,34,3,Other,Diabetes,02/07/2024,Riverside,Medication Review,Yes
+1002,56,2,Mixed,,29/07/2024,Central Health,Follow-up,No
+1062,22,2,Asian,Hypertension,10/09/2024,Central Health,Routine,Yes
+1103,79,1,Black,None,15/08/2024,Riverside,Medication Review,No
+1003,77,1,Mixed,Hypertension,25/03/2024,Hilltop,Routine,Yes
+1074,38,4,Mixed,Hypertension,16/12/2024,Riverside,Routine,Yes
+1095,19,1,,,03/04/2024,Meadow Lane,Follow-up,Yes
+1129,61,2,Asian,Diabetes,06/01/2024,Central Health,Follow-up,Yes
+1133,29,5,Other,None,14/08/2024,Hilltop,Routine,No
+1010,38,2,Asian,None,18/09/2024,Riverside,Medication Review,Yes
+1077,53,4,Other,Hypertension,08/07/2024,Hilltop,Routine,Yes
+1056,47,5,,Hypertension,21/03/2024,Meadow Lane,Follow-up,Yes
+1098,36,2,Mixed,Hypertension,12/06/2024,Meadow Lane,Routine,No
+1013,77,4,Mixed,None,27/10/2024,Central Health,Follow-up,Yes
+1091,66,1,Mixed,Hypertension,04/03/2024,Meadow Lane,Follow-up,No
+1117,44,3,Asian,,29/01/2024,Hilltop,Routine,Yes
+1027,77,2,White,None,23/07/2024,Meadow Lane,Medication Review,Yes
+1010,64,2,Mixed,None,09/07/2024,Hilltop,Follow-up,No
+1055,33,2,Black,Hypertension,18/12/2024,Riverside,Routine,Yes
+1055,47,2,Asian,None,07/02/2024,Hilltop,Medication Review,Yes
+1094,30,1,White,Diabetes,09/02/2024,Central Health,Medication Review,No
+1080,85,5,Black,None,01/03/2024,Riverside,Follow-up,Yes
+1037,84,3,Asian,Hypertension,24/03/2024,Meadow Lane,Follow-up,Yes
+1046,27,1,Black,,21/08/2024,Riverside,Follow-up,Yes
+1018,54,4,Asian,Diabetes,21/08/2024,Riverside,Medication Review,Yes
+1041,29,3,Mixed,None,16/06/2024,Meadow Lane,Routine,Yes
+1115,65,4,Mixed,,02/06/2024,Central Health,Follow-up,Yes
+1143,62,2,,Hypertension,08/03/2024,Riverside,Follow-up,No
+1016,85,3,Asian,Diabetes,20/04/2024,Riverside,Medication Review,Yes
+1095,55,4,,None,02/06/2024,Central Health,Routine,Yes
+1024,78,3,,Hypertension,24/12/2024,Riverside,Routine,No
+1126,57,2,Asian,None,11/01/2024,Central Health,Medication Review,Yes
+1124,58,3,,Hypertension,02/06/2024,Central Health,Follow-up,Yes
+1129,30,3,,None,27/03/2024,Riverside,Medication Review,Yes
+1069,19,3,White,,23/06/2024,Central Health,Medication Review,Yes
+1072,79,5,Other,Hypertension,29/04/2024,Hilltop,Routine,Yes
+1008,44,1,Black,Hypertension,26/08/2024,Riverside,Routine,Yes
+1070,58,2,White,Diabetes,15/10/2024,Hilltop,Routine,No
+1093,22,1,Black,Diabetes,11/12/2024,Central Health,Medication Review,Yes
+1052,64,4,Mixed,Hypertension,17/08/2024,Central Health,Follow-up,Yes
+1127,45,5,White,None,18/06/2024,Meadow Lane,Follow-up,Yes
+1129,53,5,Mixed,Hypertension,29/05/2024,Central Health,Follow-up,No
+1117,65,1,Other,None,16/02/2024,Meadow Lane,Medication Review,Yes
+1108,37,5,Asian,None,25/02/2024,Central Health,Follow-up,No
+1036,21,5,,None,31/01/2024,Riverside,Follow-up,No
+1122,41,2,Mixed,None,11/10/2024,Meadow Lane,Medication Review,Yes
+1088,33,2,Other,None,27/09/2024,Riverside,Routine,No
+1037,52,4,Black,Hypertension,05/01/2024,Hilltop,Follow-up,Yes
+1032,35,2,Asian,Diabetes,07/07/2024,Meadow Lane,Routine,Yes
+1002,33,4,Asian,Diabetes,16/03/2024,Hilltop,Follow-up,Yes
+1024,59,2,Mixed,None,30/09/2024,Central Health,Medication Review,Yes
+1058,78,3,Other,None,13/07/2024,Hilltop,Follow-up,Yes
+1112,30,5,,Hypertension,04/01/2024,Hilltop,Medication Review,No
+1025,76,2,Asian,Hypertension,30/07/2024,Meadow Lane,Medication Review,Yes
+1008,63,2,Asian,None,29/08/2024,Riverside,Medication Review,No
+1011,62,5,Mixed,None,10/10/2024,Hilltop,Medication Review,Yes
+1029,74,3,Asian,Hypertension,07/09/2024,Meadow Lane,Routine,Yes
+1110,58,2,Asian,Hypertension,02/03/2024,Central Health,Follow-up,Yes
+1082,69,4,,Diabetes,25/04/2024,Hilltop,Medication Review,Yes
+1023,62,1,White,,14/09/2024,Central Health,Medication Review,No
+1056,64,1,,None,13/01/2024,Hilltop,Routine,Yes
+1071,57,3,Asian,Diabetes,29/06/2024,Hilltop,Routine,Yes
+1000,52,2,Mixed,Hypertension,27/05/2024,Central Health,Routine,Yes
+1142,38,4,,Hypertension,08/11/2024,Hilltop,Routine,Yes
+1133,44,3,Black,Hypertension,01/08/2024,Riverside,Routine,Yes
+1147,74,1,Black,Diabetes,24/05/2024,Riverside,Routine,No
+1125,52,4,Other,,26/11/2024,Riverside,Follow-up,No
+1069,60,5,Other,,17/08/2024,Meadow Lane,Follow-up,No
+1087,21,4,Black,None,27/12/2024,Hilltop,Medication Review,Yes
+1061,86,5,White,Hypertension,17/04/2024,Riverside,Routine,Yes
+1057,89,2,Black,None,12/11/2024,Hilltop,Medication Review,Yes
+1020,63,4,Black,None,10/10/2024,Riverside,Medication Review,Yes
+1050,47,2,White,Hypertension,05/08/2024,Meadow Lane,Follow-up,Yes
+1088,68,1,Mixed,,27/12/2024,Hilltop,Medication Review,Yes
+1146,39,1,Black,Hypertension,05/05/2024,Meadow Lane,Medication Review,Yes
+1051,28,3,White,None,11/09/2024,Hilltop,Routine,No
+1082,22,1,Black,,29/04/2024,Riverside,Medication Review,Yes
+1085,60,4,Asian,None,19/07/2024,Central Health,Medication Review,No
+1077,32,2,Asian,None,19/03/2024,Riverside,Medication Review,No
+1138,45,2,Black,None,11/10/2024,Hilltop,Medication Review,No
+1012,49,4,Asian,Diabetes,11/05/2024,Hilltop,Routine,No
+1121,70,1,Asian,Diabetes,11/12/2024,Hilltop,Medication Review,No
+1105,68,1,,Hypertension,08/09/2024,Meadow Lane,Follow-up,Yes
+1091,20,1,Asian,None,13/03/2024,Meadow Lane,Follow-up,No
+1113,47,2,Black,Hypertension,28/12/2024,Riverside,Follow-up,Yes
+1145,52,3,Mixed,Diabetes,03/12/2024,Meadow Lane,Routine,Yes
+1103,36,1,,Diabetes,23/09/2024,Riverside,Medication Review,Yes
+1140,88,4,Other,,31/05/2024,Hilltop,Medication Review,Yes
+1088,77,2,Mixed,None,02/07/2024,Riverside,Medication Review,No
+1083,66,2,,None,04/07/2024,Riverside,Medication Review,Yes
+1122,46,1,Black,None,08/11/2024,Meadow Lane,Medication Review,Yes
+1130,40,3,,None,12/09/2024,Hilltop,Routine,No
+1054,36,4,,None,07/06/2024,Riverside,Follow-up,No
+1052,44,1,Other,Hypertension,02/08/2024,Central Health,Follow-up,Yes
+1001,32,2,Asian,,03/07/2024,Central Health,Follow-up,No
+1107,36,4,Other,Hypertension,10/01/2024,Central Health,Routine,Yes
+1007,31,3,Mixed,Hypertension,29/05/2024,Central Health,Routine,Yes
+1147,34,3,Black,Diabetes,05/05/2024,Hilltop,Routine,Yes
+1116,54,2,Mixed,None,07/03/2024,Meadow Lane,Follow-up,No
+1038,18,3,Black,Hypertension,03/09/2024,Meadow Lane,Medication Review,No
+1024,20,5,Black,Hypertension,05/09/2024,Riverside,Routine,Yes
+1105,35,4,Black,None,23/09/2024,Hilltop,Follow-up,Yes
+1094,72,5,White,Diabetes,04/07/2024,Hilltop,Follow-up,Yes
+1048,56,1,Other,Hypertension,05/09/2024,Hilltop,Routine,No
+1038,82,1,Black,Hypertension,14/04/2024,Meadow Lane,Follow-up,Yes
+1148,85,5,Asian,Hypertension,13/03/2024,Riverside,Follow-up,Yes
+1053,81,2,,Hypertension,30/05/2024,Hilltop,Follow-up,Yes
+1066,62,1,Black,None,11/12/2024,Hilltop,Medication Review,No
+1112,22,3,White,,04/02/2024,Riverside,Medication Review,Yes
+1091,72,2,Other,Diabetes,23/08/2024,Hilltop,Medication Review,No
+1083,73,2,Other,Diabetes,19/03/2024,Central Health,Medication Review,Yes
+1014,51,4,White,None,16/09/2024,Hilltop,Routine,Yes
+1024,35,1,,Hypertension,15/04/2024,Central Health,Routine,No
+1128,54,2,Mixed,Hypertension,04/12/2024,Hilltop,Medication Review,Yes
+1119,61,5,,Diabetes,24/01/2024,Hilltop,Follow-up,Yes
+1056,56,1,Other,Diabetes,04/08/2024,Hilltop,Routine,Yes
+1057,48,4,Other,,05/01/2024,Central Health,Follow-up,Yes
+1145,23,3,Asian,None,25/07/2024,Central Health,Follow-up,Yes
+1131,74,1,Asian,,30/08/2024,Meadow Lane,Routine,Yes
+1103,22,1,Mixed,Hypertension,10/10/2024,Riverside,Medication Review,Yes
+1007,24,1,Other,Hypertension,27/09/2024,Riverside,Routine,Yes
+1011,56,2,White,Hypertension,18/11/2024,Hilltop,Follow-up,Yes
+1128,67,3,Mixed,Diabetes,05/07/2024,Meadow Lane,Medication Review,Yes
+1110,40,2,,Diabetes,22/04/2024,Central Health,Routine,Yes
+1014,86,1,Black,None,23/07/2024,Meadow Lane,Medication Review,No
+1142,57,5,Mixed,Hypertension,25/06/2024,Hilltop,Follow-up,Yes
+1011,25,5,Mixed,Hypertension,15/01/2024,Riverside,Medication Review,Yes
+1050,56,1,Other,None,21/08/2024,Riverside,Routine,No
+1062,37,3,Mixed,Diabetes,04/08/2024,Meadow Lane,Follow-up,Yes
+1148,39,1,Asian,Hypertension,29/10/2024,Hilltop,Follow-up,No
+1127,39,3,White,,23/08/2024,Central Health,Follow-up,Yes
+1116,63,1,Asian,Hypertension,22/01/2024,Meadow Lane,Medication Review,Yes
+1011,41,5,White,Hypertension,17/02/2024,Central Health,Routine,Yes
+1129,74,5,Mixed,Diabetes,09/09/2024,Meadow Lane,Follow-up,Yes
+1085,80,5,Mixed,Hypertension,01/04/2024,Hilltop,Medication Review,Yes
+1010,67,2,,,28/11/2024,Hilltop,Follow-up,Yes
+1107,73,4,,Hypertension,21/02/2024,Central Health,Follow-up,Yes
+1058,55,1,Asian,None,11/05/2024,Hilltop,Follow-up,No
+1003,43,3,Asian,Hypertension,27/09/2024,Meadow Lane,Routine,Yes
+1000,19,3,Mixed,Hypertension,02/03/2024,Riverside,Follow-up,Yes
+1032,66,5,Other,Hypertension,16/02/2024,Hilltop,Medication Review,Yes
+1112,49,1,Other,Hypertension,05/05/2024,Hilltop,Medication Review,No
+1091,20,4,,,17/12/2024,Meadow Lane,Routine,Yes
+1136,31,4,White,Diabetes,01/02/2024,Riverside,Follow-up,No
+1112,47,4,Other,,14/08/2024,Meadow Lane,Routine,Yes
+1100,80,1,,None,16/05/2024,Hilltop,Medication Review,Yes
+1035,20,4,Other,Hypertension,17/04/2024,Hilltop,Follow-up,Yes
+1112,51,2,Other,None,11/03/2024,Central Health,Medication Review,Yes
+1038,89,4,Other,None,27/04/2024,Central Health,Medication Review,Yes
+1117,37,4,Asian,None,13/01/2024,Hilltop,Routine,Yes
+1068,42,4,Black,None,28/09/2024,Riverside,Medication Review,No
+1114,44,4,,Diabetes,28/04/2024,Riverside,Follow-up,Yes
+1061,24,4,Mixed,Diabetes,09/10/2024,Meadow Lane,Routine,No
+1087,80,3,Black,Diabetes,18/03/2024,Hilltop,Routine,Yes
+1143,26,4,Mixed,,03/10/2024,Hilltop,Routine,Yes
+1069,85,4,Asian,None,14/02/2024,Hilltop,Routine,No
+1041,26,4,Mixed,None,12/12/2024,Central Health,Routine,Yes
+1111,38,5,Black,None,24/01/2024,Hilltop,Routine,Yes
+1083,25,3,Asian,None,27/04/2024,Riverside,Follow-up,Yes
+1034,51,2,Black,Hypertension,25/12/2024,Hilltop,Routine,Yes
+1000,28,1,,Hypertension,26/03/2024,Hilltop,Routine,Yes
+1011,84,2,Black,None,04/02/2024,Central Health,Routine,Yes
+1028,28,5,Mixed,None,25/05/2024,Central Health,Follow-up,Yes
+1132,86,1,Mixed,Hypertension,30/09/2024,Central Health,Routine,Yes
+1062,80,3,Other,Diabetes,16/09/2024,Central Health,Medication Review,Yes
+1046,35,3,Mixed,Hypertension,03/07/2024,Riverside,Routine,Yes
+1133,85,2,White,Hypertension,29/09/2024,Central Health,Routine,Yes
+1095,49,2,Asian,Hypertension,28/09/2024,Riverside,Follow-up,Yes
+1028,22,5,Mixed,Diabetes,24/06/2024,Hilltop,Medication Review,Yes
+1131,54,1,Black,Diabetes,28/11/2024,Central Health,Follow-up,Yes
+1112,77,2,Mixed,Diabetes,10/08/2024,Meadow Lane,Medication Review,Yes
+1015,31,5,White,Hypertension,02/01/2024,Central Health,Medication Review,No
+1015,66,3,Mixed,Hypertension,10/06/2024,Hilltop,Follow-up,Yes
+1112,49,2,,,03/11/2024,Meadow Lane,Routine,No
+1053,49,1,Black,Diabetes,03/03/2024,Hilltop,Medication Review,Yes
+1052,53,5,Black,,18/11/2024,Meadow Lane,Follow-up,Yes
+1084,21,1,Black,None,14/03/2024,Meadow Lane,Routine,Yes
+1081,86,3,White,Hypertension,18/04/2024,Hilltop,Medication Review,Yes
+1074,77,1,White,Hypertension,02/05/2024,Riverside,Follow-up,Yes
+1100,27,1,Other,None,18/07/2024,Central Health,Follow-up,Yes
+1017,79,4,Black,None,25/07/2024,Riverside,Follow-up,No
+1016,86,4,Mixed,,12/02/2024,Hilltop,Follow-up,Yes
+1144,63,3,,Diabetes,21/12/2024,Central Health,Medication Review,Yes
+1026,25,1,,Hypertension,04/02/2024,Hilltop,Routine,Yes
+1134,50,5,White,Hypertension,21/01/2024,Central Health,Routine,Yes
+1037,38,2,Asian,Hypertension,05/07/2024,Central Health,Medication Review,No
+1073,80,4,Other,Hypertension,12/05/2024,Hilltop,Follow-up,Yes
+1134,77,2,Mixed,None,08/02/2024,Meadow Lane,Routine,Yes
+1114,45,3,,None,11/07/2024,Meadow Lane,Routine,Yes
+1053,72,5,Mixed,Hypertension,28/12/2024,Meadow Lane,Routine,Yes
+1080,54,1,White,,22/02/2024,Meadow Lane,Follow-up,Yes
+1071,37,3,Mixed,Hypertension,24/09/2024,Central Health,Medication Review,Yes
+1108,75,1,,None,19/12/2024,Hilltop,Follow-up,Yes
+1146,41,4,Other,Hypertension,01/07/2024,Hilltop,Routine,No
+1003,41,3,Mixed,,02/07/2024,Hilltop,Routine,No
+1038,71,2,Asian,,03/01/2024,Riverside,Follow-up,Yes
+1085,18,5,Black,None,17/09/2024,Hilltop,Follow-up,Yes
+1066,53,4,White,None,29/02/2024,Meadow Lane,Medication Review,Yes
+1095,55,2,Other,Diabetes,09/03/2024,Meadow Lane,Routine,Yes
+1039,49,2,Asian,Hypertension,09/07/2024,Meadow Lane,Follow-up,Yes
+1068,67,2,,None,12/10/2024,Riverside,Medication Review,Yes
+1089,64,1,,Hypertension,01/02/2024,Central Health,Medication Review,No
+1147,33,2,White,Hypertension,04/11/2024,Meadow Lane,Follow-up,No
+1065,42,1,White,None,16/02/2024,Meadow Lane,Medication Review,No
+1090,19,4,,Hypertension,31/12/2024,Riverside,Follow-up,Yes
+1144,81,3,Asian,Diabetes,02/01/2024,Meadow Lane,Follow-up,Yes
+1035,31,3,Asian,Diabetes,04/03/2024,Meadow Lane,Follow-up,Yes
+1143,65,3,Mixed,Diabetes,20/02/2024,Hilltop,Routine,Yes
+1078,42,5,Mixed,Hypertension,02/06/2024,Hilltop,Medication Review,Yes
+1036,32,2,White,Hypertension,04/10/2024,Meadow Lane,Routine,No
+1110,70,5,Mixed,Diabetes,29/05/2024,Hilltop,Routine,Yes
+1075,89,1,Other,None,15/03/2024,Hilltop,Medication Review,No
+1064,67,2,White,Diabetes,17/08/2024,Meadow Lane,Routine,No
+1046,82,5,Mixed,None,17/07/2024,Meadow Lane,Medication Review,No
+1114,20,4,Black,Diabetes,07/04/2024,Meadow Lane,Medication Review,Yes
+1050,59,3,,Hypertension,07/02/2024,Riverside,Routine,Yes
+1061,70,1,Mixed,Diabetes,09/06/2024,Riverside,Routine,Yes
+1007,19,3,White,Diabetes,18/08/2024,Meadow Lane,Medication Review,Yes
+1136,39,1,Black,Hypertension,25/09/2024,Riverside,Medication Review,No
+1012,70,3,,None,21/12/2024,Meadow Lane,Follow-up,No
+1003,77,2,Asian,,22/08/2024,Hilltop,Routine,Yes
+1099,49,1,White,None,05/09/2024,Hilltop,Follow-up,Yes
+1056,38,4,,,26/02/2024,Riverside,Routine,No
+1035,62,1,White,Diabetes,29/10/2024,Hilltop,Follow-up,Yes
+1125,20,3,Black,None,24/12/2024,Riverside,Routine,Yes
+1075,73,4,Black,Diabetes,01/09/2024,Riverside,Follow-up,Yes
+1002,85,3,Other,,16/01/2024,Hilltop,Medication Review,Yes
+1000,59,1,Other,Hypertension,08/02/2024,Hilltop,Follow-up,Yes
+1002,58,3,,Diabetes,05/10/2024,Central Health,Routine,Yes
+1082,31,1,,,17/12/2024,Riverside,Follow-up,No
+1149,46,5,Asian,None,14/06/2024,Riverside,Routine,Yes
+1103,81,3,Black,None,25/05/2024,Meadow Lane,Follow-up,Yes
+1110,49,2,,,29/08/2024,Hilltop,Routine,Yes
+1066,81,1,Asian,,08/10/2024,Riverside,Routine,Yes
+1016,58,4,,Hypertension,15/06/2024,Central Health,Follow-up,No
+1028,86,5,Other,None,13/04/2024,Riverside,Routine,No
+1000,58,1,White,Hypertension,01/07/2024,Riverside,Medication Review,Yes
+1070,87,5,Asian,Hypertension,19/02/2024,Central Health,Routine,Yes
+1006,24,2,Black,None,31/10/2024,Central Health,Medication Review,No
+1136,56,5,Mixed,None,21/07/2024,Central Health,Medication Review,No
+1114,32,4,Mixed,,27/01/2024,Central Health,Follow-up,No
+1068,38,1,Black,None,29/08/2024,Central Health,Routine,No
+1046,75,3,Asian,None,19/09/2024,Hilltop,Follow-up,No
+1122,46,1,Mixed,Hypertension,22/03/2024,Riverside,Follow-up,No
+1053,49,1,Other,Hypertension,08/04/2024,Meadow Lane,Follow-up,Yes
+1051,81,1,Mixed,Diabetes,08/12/2024,Riverside,Follow-up,Yes
+1092,56,4,,None,04/04/2024,Meadow Lane,Medication Review,Yes
+1123,57,2,Asian,Hypertension,30/11/2024,Hilltop,Medication Review,No
+1093,72,1,,Diabetes,23/05/2024,Riverside,Routine,Yes
+1148,29,3,White,None,16/05/2024,Hilltop,Follow-up,Yes
+1127,27,5,Mixed,,04/12/2024,Hilltop,Follow-up,Yes
+1098,78,4,White,None,25/02/2024,Riverside,Medication Review,No
+1079,85,1,Black,Hypertension,20/09/2024,Hilltop,Routine,Yes
+1006,32,4,Asian,None,22/09/2024,Riverside,Follow-up,No
+1085,26,2,White,Hypertension,24/03/2024,Riverside,Routine,No
+1028,58,1,Asian,None,02/02/2024,Riverside,Follow-up,No
+1098,22,1,Mixed,,24/03/2024,Riverside,Routine,No
+1134,39,1,Mixed,Diabetes,30/12/2024,Riverside,Medication Review,Yes
+1111,50,4,Asian,Diabetes,29/11/2024,Central Health,Follow-up,Yes
+1074,32,4,Mixed,None,19/06/2024,Central Health,Medication Review,Yes
+1061,87,3,Asian,,01/12/2024,Central Health,Follow-up,Yes
+1105,77,3,Asian,None,28/12/2024,Hilltop,Medication Review,Yes
+1018,40,2,Black,Hypertension,22/09/2024,Central Health,Medication Review,Yes
+1050,84,3,,None,19/01/2024,Hilltop,Follow-up,Yes
+1128,87,3,Other,Hypertension,16/11/2024,Riverside,Follow-up,Yes
+1007,64,4,Black,None,08/09/2024,Riverside,Follow-up,No
+1060,87,1,Black,Diabetes,25/01/2024,Riverside,Routine,No
+1004,35,2,Asian,None,16/02/2024,Riverside,Follow-up,No
+1000,77,4,Asian,Hypertension,17/06/2024,Meadow Lane,Routine,Yes
+1128,72,4,Other,Hypertension,21/05/2024,Central Health,Follow-up,No
+1145,45,4,Mixed,Hypertension,26/04/2024,Meadow Lane,Follow-up,Yes
+1110,84,4,Black,Hypertension,27/08/2024,Central Health,Routine,Yes
+1056,48,2,White,Diabetes,22/08/2024,Hilltop,Routine,Yes
+1121,34,1,Mixed,Hypertension,04/09/2024,Hilltop,Medication Review,No
+1047,67,5,,Hypertension,13/06/2024,Meadow Lane,Medication Review,Yes
+1123,43,1,,Hypertension,31/05/2024,Central Health,Routine,Yes
+1100,38,1,White,Diabetes,29/10/2024,Meadow Lane,Medication Review,Yes
+1066,55,5,Black,Hypertension,14/10/2024,Hilltop,Routine,Yes
+1071,58,3,White,Diabetes,02/08/2024,Hilltop,Routine,Yes
+1004,41,3,Mixed,None,03/10/2024,Riverside,Routine,Yes
+1095,21,4,Black,None,05/05/2024,Riverside,Routine,No
+1059,23,1,Black,None,01/05/2024,Hilltop,Medication Review,Yes
+1022,25,1,Other,Diabetes,21/04/2024,Meadow Lane,Routine,No
+1067,77,5,Other,Diabetes,23/06/2024,Meadow Lane,Medication Review,Yes
+1022,75,2,White,Hypertension,28/11/2024,Riverside,Routine,Yes
+1137,54,5,Mixed,Diabetes,03/09/2024,Meadow Lane,Follow-up,No
+1093,31,3,White,Hypertension,10/02/2024,Hilltop,Medication Review,Yes
+1040,18,5,Other,None,30/05/2024,Meadow Lane,Follow-up,Yes
+1056,74,4,Other,Diabetes,01/08/2024,Hilltop,Medication Review,Yes
+1078,52,5,Black,None,08/07/2024,Central Health,Medication Review,Yes
+1031,43,3,,,31/01/2024,Hilltop,Routine,Yes
+1148,40,1,Asian,Hypertension,21/01/2024,Hilltop,Follow-up,Yes
+1017,82,5,Other,None,19/07/2024,Central Health,Follow-up,Yes
+1148,61,1,Other,Hypertension,20/12/2024,Central Health,Routine,Yes
+1098,20,2,Mixed,Diabetes,26/03/2024,Riverside,Follow-up,Yes
+1037,73,1,Asian,None,14/11/2024,Riverside,Medication Review,Yes
+1001,34,3,Asian,None,02/08/2024,Meadow Lane,Follow-up,Yes
+1064,87,1,,Diabetes,08/02/2024,Riverside,Follow-up,No
+1098,32,3,White,Diabetes,09/12/2024,Central Health,Routine,Yes
+1028,65,1,Black,Diabetes,04/12/2024,Hilltop,Routine,Yes
+1103,49,1,Mixed,None,29/05/2024,Riverside,Follow-up,No
+1074,85,1,White,Hypertension,01/09/2024,Riverside,Medication Review,Yes
+1041,53,3,Black,None,05/08/2024,Riverside,Routine,Yes
+1029,57,1,,Diabetes,28/07/2024,Central Health,Medication Review,Yes
+1146,47,4,,Diabetes,20/11/2024,Central Health,Medication Review,No
+1013,27,1,Black,Diabetes,12/12/2024,Meadow Lane,Routine,No
+1031,37,4,Other,,09/05/2024,Central Health,Routine,Yes
+1127,36,1,Other,,06/04/2024,Central Health,Follow-up,Yes
+1092,83,2,Other,None,01/03/2024,Meadow Lane,Routine,Yes
+1113,50,1,Black,None,01/02/2024,Riverside,Routine,Yes
+1043,48,3,White,Diabetes,12/07/2024,Hilltop,Follow-up,Yes
+1100,43,3,,Hypertension,09/10/2024,Riverside,Routine,No
+1098,53,3,Black,,18/05/2024,Meadow Lane,Medication Review,Yes
+1021,63,1,Mixed,,05/01/2024,Riverside,Medication Review,No
+1132,56,2,White,None,26/08/2024,Hilltop,Routine,Yes
+1147,88,2,White,Diabetes,29/04/2024,Meadow Lane,Medication Review,No
+1047,78,4,White,,20/05/2024,Riverside,Medication Review,Yes
+1149,72,1,,Diabetes,13/03/2024,Meadow Lane,Medication Review,Yes
+1118,62,3,Mixed,None,19/06/2024,Meadow Lane,Routine,Yes
+1006,18,2,Mixed,Hypertension,15/08/2024,Hilltop,Medication Review,Yes
+1075,51,3,Mixed,Hypertension,07/10/2024,Hilltop,Routine,Yes
+1147,81,3,Asian,Diabetes,25/02/2024,Central Health,Follow-up,No
+1069,71,4,,Diabetes,07/07/2024,Meadow Lane,Follow-up,Yes
+1047,32,1,Black,Diabetes,14/07/2024,Central Health,Routine,Yes
+1132,49,2,,Hypertension,02/05/2024,Meadow Lane,Follow-up,Yes
+1119,86,2,Asian,,20/04/2024,Meadow Lane,Routine,Yes
+1133,66,4,Other,Hypertension,14/05/2024,Hilltop,Follow-up,Yes
+1108,29,5,,Diabetes,04/04/2024,Hilltop,Medication Review,Yes
+1055,55,3,Asian,None,19/09/2024,Hilltop,Follow-up,Yes
+1136,63,2,Black,Hypertension,31/01/2024,Riverside,Follow-up,Yes
+1130,21,1,,Diabetes,10/08/2024,Riverside,Follow-up,Yes
+1083,29,1,Black,None,07/10/2024,Central Health,Follow-up,Yes
+1129,69,4,Asian,None,23/08/2024,Riverside,Follow-up,Yes
+1005,88,2,,Diabetes,13/06/2024,Meadow Lane,Medication Review,Yes
+1140,27,2,,None,07/01/2024,Riverside,Routine,Yes
+1098,69,1,,None,05/08/2024,Central Health,Medication Review,Yes
+1080,70,1,Black,None,21/11/2024,Central Health,Routine,Yes
+1118,40,1,Other,Diabetes,07/11/2024,Central Health,Routine,No
+1068,79,4,White,None,23/01/2024,Hilltop,Routine,Yes
+1060,33,1,Other,None,05/09/2024,Riverside,Routine,Yes
+1010,67,4,Asian,None,29/04/2024,Hilltop,Routine,Yes
+1144,36,3,Black,None,28/12/2024,Hilltop,Medication Review,Yes
+1086,54,2,,Hypertension,12/10/2024,Meadow Lane,Routine,Yes
+1092,63,2,Mixed,Hypertension,07/09/2024,Riverside,Routine,Yes
+1086,71,2,Mixed,Hypertension,02/08/2024,Hilltop,Follow-up,Yes
+1111,50,1,Other,Hypertension,20/01/2024,Hilltop,Routine,Yes
+1020,46,1,Mixed,Hypertension,22/09/2024,Meadow Lane,Medication Review,Yes
+1039,25,5,Black,None,05/10/2024,Hilltop,Follow-up,Yes
+1035,48,1,Asian,Hypertension,17/09/2024,Central Health,Routine,No
+1108,77,3,White,Hypertension,20/06/2024,Hilltop,Follow-up,Yes
+1134,26,2,Mixed,Diabetes,03/08/2024,Hilltop,Medication Review,No
+1140,75,1,Asian,None,31/03/2024,Central Health,Routine,Yes
+1040,30,4,White,None,09/04/2024,Hilltop,Routine,No
+1035,38,1,Other,Hypertension,02/03/2024,Meadow Lane,Follow-up,No
+1135,81,2,Other,None,24/04/2024,Meadow Lane,Follow-up,Yes
+1130,57,5,,Hypertension,15/02/2024,Hilltop,Follow-up,Yes
+1065,84,1,Asian,None,04/09/2024,Central Health,Routine,No
+1002,30,1,Black,Hypertension,06/11/2024,Meadow Lane,Medication Review,Yes
+1084,35,1,Asian,None,22/04/2024,Meadow Lane,Medication Review,Yes
+1086,29,5,,Diabetes,27/08/2024,Meadow Lane,Routine,Yes
+1063,62,2,Asian,None,01/03/2024,Riverside,Medication Review,Yes
+1020,50,4,,,13/02/2024,Central Health,Routine,No
+1080,59,2,Other,Diabetes,04/01/2024,Hilltop,Medication Review,Yes
+1038,58,1,Mixed,None,12/07/2024,Hilltop,Follow-up,Yes
+1061,38,2,Mixed,None,20/12/2024,Riverside,Routine,Yes
+1027,85,2,,None,03/12/2024,Riverside,Medication Review,Yes
+1011,87,5,Mixed,Hypertension,25/12/2024,Central Health,Medication Review,Yes
+1132,47,1,White,Hypertension,08/08/2024,Meadow Lane,Follow-up,Yes
+1054,25,2,,None,30/09/2024,Hilltop,Routine,Yes
+1089,29,4,Other,Hypertension,22/03/2024,Meadow Lane,Routine,Yes
+1127,78,2,Asian,None,17/06/2024,Hilltop,Medication Review,Yes
+1106,33,1,Mixed,Hypertension,26/08/2024,Riverside,Routine,Yes
+1018,21,1,Black,None,18/09/2024,Meadow Lane,Follow-up,Yes
+1008,68,2,,Hypertension,05/03/2024,Central Health,Follow-up,Yes
+1139,18,4,Black,Hypertension,18/11/2024,Central Health,Follow-up,Yes
+1061,59,4,Asian,None,15/05/2024,Central Health,Medication Review,Yes
+1033,23,4,Other,None,16/08/2024,Central Health,Follow-up,Yes
+1007,70,2,White,Hypertension,20/10/2024,Hilltop,Routine,Yes
+1057,33,2,Mixed,Hypertension,19/01/2024,Riverside,Medication Review,Yes
+1018,67,1,Other,Hypertension,23/12/2024,Hilltop,Routine,Yes
+1094,19,4,Mixed,None,11/10/2024,Central Health,Medication Review,Yes
+1000,30,1,White,Diabetes,19/06/2024,Hilltop,Routine,No
+1093,29,3,,None,07/10/2024,Central Health,Routine,Yes
+1036,26,1,White,Diabetes,16/08/2024,Meadow Lane,Medication Review,Yes
+1051,62,1,White,Diabetes,25/10/2024,Hilltop,Medication Review,Yes
+1093,69,2,,None,07/05/2024,Meadow Lane,Follow-up,Yes
+1027,79,2,Black,None,04/06/2024,Central Health,Routine,Yes
+1062,77,5,Black,Hypertension,28/10/2024,Meadow Lane,Routine,No
+1050,61,3,Mixed,None,25/03/2024,Meadow Lane,Medication Review,Yes
+1122,22,5,White,None,09/06/2024,Riverside,Follow-up,Yes
+1007,39,5,Mixed,None,02/09/2024,Meadow Lane,Routine,No
+1127,40,1,Asian,None,14/05/2024,Meadow Lane,Medication Review,Yes
+1012,35,2,Asian,Diabetes,02/04/2024,Hilltop,Follow-up,Yes
+1143,77,1,Mixed,Hypertension,28/11/2024,Meadow Lane,Routine,Yes
+1127,87,1,,None,25/11/2024,Meadow Lane,Routine,No
+1039,50,2,Mixed,None,01/08/2024,Central Health,Medication Review,Yes
+1088,81,5,Black,None,09/06/2024,Meadow Lane,Follow-up,Yes
+1025,74,4,Other,Diabetes,26/04/2024,Central Health,Follow-up,No
